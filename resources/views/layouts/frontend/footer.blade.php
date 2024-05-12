@@ -1,3 +1,9 @@
+<div class="whatsbgmob">
+        <a href="https://api.whatsapp.com/send?phone=918317673857" class="float" target="_blank">
+            <h5 class="textgreen font-weight-bold mb-0">Chat with us <img src="{{ url('frontend/images/whatsapp help icon.svg') }}" class="img-fluid"></h5>
+        </a>
+    </div>
+
 <footer class="bgfoot px-3 py-5 d-none">
     <div class="container">
         <div class="row">
