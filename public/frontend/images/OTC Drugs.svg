@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="65" height="65" viewBox="0 0 87.451 98.877">
   <defs>
     <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
-      <stop offset="0" stop-color="#00b48d"/>
+      <stop offset="0" stop-color="#4398CF"/>
       <stop offset="1" stop-color="#4b8cdd"/>
     </linearGradient>
     <filter id="OTC_Drugs" x="0" y="0" width="87.451" height="98.877" filterUnits="userSpaceOnUse">
