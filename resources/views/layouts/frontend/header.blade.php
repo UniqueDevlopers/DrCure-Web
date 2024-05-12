@@ -22,7 +22,7 @@
     <link rel="stylesheet" href="{{ url('frontend/owlCarousel/css/owl.theme.default.min.css') }}">
     <link rel="stylesheet" href="{{ url('frontend/styles/styles.css') }}">
     <link rel="stylesheet" href="{{ url('frontend/styles/responsive.css') }}">
-     {{-- @vite(['resources/js/app.js']) --}}
+     @vite(['resources/js/app.js'])
     <link
         href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
         rel="stylesheet">
