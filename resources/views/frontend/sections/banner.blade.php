@@ -21,7 +21,7 @@
                                         </h4>
                                         <p class="text-white"></p>
                                         <button class="btn text-white btnblue font-weight-bold mt-4"><a
-                                                href="https://api.whatsapp.com/send?phone=918904419944" target="_blank"
+                                                href="https://api.whatsapp.com/send?phone=918317673857" target="_blank"
                                                 class="text-white"> Order Now!</a></button>
                                     </div>
                                 </div>
@@ -46,7 +46,7 @@
                                         </h4>
                                         <p class="text-white"></p>
                                         <button class="btn text-white btnblue font-weight-bold mt-4"><a
-                                                href="https://api.whatsapp.com/send?phone=918904419944" target="_blank"
+                                                href="https://api.whatsapp.com/send?phone=918317673857" target="_blank"
                                                 class="text-white"> Order Now!</a></button>
                                     </div>
                                 </div>
@@ -93,7 +93,7 @@
                                         </h4>
                                         <p class="text-white"></p>
                                         <button class="btn text-white btnblue font-weight-bold mt-4"><a
-                                                href="https://api.whatsapp.com/send?phone=918904419944" target="_blank"
+                                                href="https://api.whatsapp.com/send?phone=918317673857" target="_blank"
                                                 class="text-white"> Order Now!</a></button>
                                     </div>
                                 </div>
@@ -123,7 +123,7 @@
                                            and Kids toothbrush with Toy and many more.
                                        </h4>
                                        <button class="btn text-white btnblue font-weight-bold mt-4"><a
-                                               href="https://api.whatsapp.com/send?phone=918904419944" target="_blank"
+                                               href="https://api.whatsapp.com/send?phone=918317673857" target="_blank"
                                                class="text-white"> Order Now!
                                            </a></button>
                                    </div>
@@ -152,7 +152,7 @@
 
                                        </h4>
                                        <button class="btn text-white btnblue font-weight-bold mt-4"><a
-                                               href="https://api.whatsapp.com/send?phone=918904419944" target="_blank"
+                                               href="https://api.whatsapp.com/send?phone=918317673857" target="_blank"
                                                class="text-white"> Order Now!
                                            </a></button>
                                    </div>
@@ -180,7 +180,7 @@
                                            Water Bottle worth Rs 450/- Free
                                        </h4>
                                        <button class="btn text-white btnblue font-weight-bold mt-4"><a
-                                               href="https://api.whatsapp.com/send?phone=918904419944" target="_blank"
+                                               href="https://api.whatsapp.com/send?phone=918317673857" target="_blank"
                                                class="text-white"> Order Now!
                                            </a></button>
                                    </div>
@@ -203,7 +203,7 @@
                                             Shop for <strong>₹799*</strong> or above, and get <strong>DrCure Pharmacy Cotton Ear Buds (100 nos.)</strong> + Aloe Vera/Lemongrass<br>
                                             <strong>DrCure Pharmacy Liquid Hand Wash (250 ml) </strong>free
                                         </h4>
-                                        <button class="btn text-white btnblue font-weight-bold mt-4"><a href="https://api.whatsapp.com/send?phone=918904419944" target="_blank" class="text-white"> Order Now!
+                                        <button class="btn text-white btnblue font-weight-bold mt-4"><a href="https://api.whatsapp.com/send?phone=918317673857" target="_blank" class="text-white"> Order Now!
                                             </a></button>
                                     </div>
                                 </div>
@@ -304,7 +304,7 @@
                                             Buy medicines worth <strong>₹499*</strong> or above, and get an<br> Aloe Vera/Lemongrass  <strong>
                                             DrCure Pharmacy Liquid Hand Wash (250 ml) </strong>free
                                         </h4>
-                                        <button class="btn text-white btnblue font-weight-bold mt-4"><a href="https://api.whatsapp.com/send?phone=918904419944" target="_blank" class="text-white"> Order Now!
+                                        <button class="btn text-white btnblue font-weight-bold mt-4"><a href="https://api.whatsapp.com/send?phone=918317673857" target="_blank" class="text-white"> Order Now!
                                             </a></button>
                                     </div>
                                 </div>
@@ -325,7 +325,7 @@
                                             Buy medicines worth <strong>₹299*</strong> or above, and get an Apple/Orange flavour  <strong>
                                             Rebalanz ORS (200 ml) </strong>free
                                         </h4>
-                                        <button class="btn text-white btnblue font-weight-bold mt-4"><a href="https://api.whatsapp.com/send?phone=918904419944" target="_blank" class="text-white"> Order Now!
+                                        <button class="btn text-white btnblue font-weight-bold mt-4"><a href="https://api.whatsapp.com/send?phone=918317673857" target="_blank" class="text-white"> Order Now!
                                             </a></button>
                                     </div>
                                 </div>
@@ -346,7 +346,7 @@
                                             pharmacy launch
 
                                         </h1>
-                                        <button class="btn text-white btnblue font-weight-bold mt-4"><a href="https://api.whatsapp.com/send?phone=918904419944" target="_blank" class="text-white"> Order Now!
+                                        <button class="btn text-white btnblue font-weight-bold mt-4"><a href="https://api.whatsapp.com/send?phone=918317673857" target="_blank" class="text-white"> Order Now!
                                             </a></button>
                                     </div>
                                 </div>
