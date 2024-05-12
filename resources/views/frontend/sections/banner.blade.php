@@ -3,7 +3,7 @@
        <div class="container-fluid px-0">
            <div class="row no-gutters">
                <div class="col-lg-12">
-                
+
                    <div class="owl-carousel owl-theme mt-0 banner_slide" id="banner2_slide">
                        <!-- <div class="item">
                             <div class="row no-gutters">
@@ -15,8 +15,8 @@
                                         <h1 class="bannerhead text-white font-weight-bold">BACK-TO-SCHOOL OFFER:<br>
 
                                         </h1>
-                                        <h4 class="text-white">FREE <strong>Aster Pharmacy sanitizer</strong> (50 ml) &
-                                            <strong>Aster Pharmacy N95 mask</strong> on
+                                        <h4 class="text-white">FREE <strong>DrCure Pharmacy sanitizer</strong> (50 ml) &
+                                            <strong>DrCure Pharmacy N95 mask</strong> on
                                             purchase of medicines worth ₹299* or above.
                                         </h4>
                                         <p class="text-white"></p>
@@ -40,9 +40,9 @@
                                         <h1 class="bannerhead text-white font-weight-bold">MONSOON OFFER:<br>
 
                                         </h1>
-                                        <h4 class="text-white">FREE <strong> Aster Pharmacy umbrella*</strong><br> -->
+                                        <h4 class="text-white">FREE <strong> DrCure Pharmacy umbrella*</strong><br> -->
                        <!-- on purchase of medicines worth ₹699* or above. -->
-                       <!-- Visit your nearest Aster Pharmacy to know more.
+                       <!-- Visit your nearest DrCure Pharmacy to know more.
                                         </h4>
                                         <p class="text-white"></p>
                                         <button class="btn text-white btnblue font-weight-bold mt-4"><a
@@ -87,7 +87,7 @@
                                             OFFER:<br>
 
                                         </h1>
-                                        <h4 class="text-white">Get an <strong>Aster Pharmacy yoga mat</strong> for only
+                                        <h4 class="text-white">Get an <strong>DrCure Pharmacy yoga mat</strong> for only
                                             <strong>₹300</strong> on purchase of medicines worth <strong>₹499*</strong>
                                             or above.
                                         </h4>
@@ -115,11 +115,11 @@
                                    <div class="pos">
                                        <h1 class="bannerhead text-white font-weight-bold">Super New Launches:</h1>
                                        <!--   <h4 class="text-white">
-                                            Shop* for <strong>₹1,499/- </strong> or above, and get <strong>Aster Pharmacy Metal Water Bottle </strong> worth<strong>
+                                            Shop* for <strong>₹1,499/- </strong> or above, and get <strong>DrCure Pharmacy Metal Water Bottle </strong> worth<strong>
                                              ₹450/- FREE!</strong>
                                         </h4> -->
                                        <h4 class="text-white">
-                                           Presenting new launches of Aster Pharmacy Herbal Cough Syrup, Hot Water Bag
+                                           Presenting new launches of DrCure Pharmacy Herbal Cough Syrup, Hot Water Bag
                                            and Kids toothbrush with Toy and many more.
                                        </h4>
                                        <button class="btn text-white btnblue font-weight-bold mt-4"><a
@@ -143,10 +143,11 @@
                                </div>
                                <div class="col-xxl-6 col-xl-6 col-lg-6 col-12 dualcolor mb-lg-0 mb-3  txtcenter-mob">
                                    <div class="pos">
-                                       <h1 class="bannerhead text-white font-weight-bold">Aster Pharmacy Umbrella Free:
+                                       <h1 class="bannerhead text-white font-weight-bold">DrCure Pharmacy Umbrella Free:
                                        </h1>
                                        <h4 class="text-white">
-                                           Buy Aster Pharmacy products worth Rs 499/- or above and get an Aster Pharmacy
+                                           Buy DrCure Pharmacy products worth Rs 499/- or above and get an DrCure
+                                           Pharmacy
                                            Umbrella worth Rs 350/- Free
 
                                        </h4>
@@ -171,10 +172,11 @@
                                </div>
                                <div class="col-xxl-6 col-xl-6 col-lg-6 col-12 dualcolor mb-lg-0 mb-3  txtcenter-mob">
                                    <div class="pos">
-                                       <h1 class="bannerhead text-white font-weight-bold">Aster Pharmacy Premium Water
+                                       <h1 class="bannerhead text-white font-weight-bold">DrCure Pharmacy Premium Water
                                            Bottle Free:</h1>
                                        <h4 class="text-white">
-                                           Buy Aster Pharmacy products worth Rs 999/- or above and get an Aster Pharmacy
+                                           Buy DrCure Pharmacy products worth Rs 999/- or above and get an DrCure
+                                           Pharmacy
                                            Water Bottle worth Rs 450/- Free
                                        </h4>
                                        <button class="btn text-white btnblue font-weight-bold mt-4"><a
@@ -198,8 +200,8 @@
                                     <div class="pos">
                                         <h1 class="bannerhead text-white font-weight-bold">MEGA SAVER OFFERS:</h1>
                                         <h4 class="text-white">
-                                            Shop for <strong>₹799*</strong> or above, and get <strong>Aster Pharmacy Cotton Ear Buds (100 nos.)</strong> + Aloe Vera/Lemongrass<br>
-                                            <strong>Aster Pharmacy Liquid Hand Wash (250 ml) </strong>free
+                                            Shop for <strong>₹799*</strong> or above, and get <strong>DrCure Pharmacy Cotton Ear Buds (100 nos.)</strong> + Aloe Vera/Lemongrass<br>
+                                            <strong>DrCure Pharmacy Liquid Hand Wash (250 ml) </strong>free
                                         </h4>
                                         <button class="btn text-white btnblue font-weight-bold mt-4"><a href="https://api.whatsapp.com/send?phone=918904419944" target="_blank" class="text-white"> Order Now!
                                             </a></button>
@@ -300,7 +302,7 @@
                                         <h1 class="bannerhead text-white font-weight-bold">MEGA SAVER OFFERS:</h1>
                                         <h4 class="text-white">
                                             Buy medicines worth <strong>₹499*</strong> or above, and get an<br> Aloe Vera/Lemongrass  <strong>
-                                            Aster Pharmacy Liquid Hand Wash (250 ml) </strong>free
+                                            DrCure Pharmacy Liquid Hand Wash (250 ml) </strong>free
                                         </h4>
                                         <button class="btn text-white btnblue font-weight-bold mt-4"><a href="https://api.whatsapp.com/send?phone=918904419944" target="_blank" class="text-white"> Order Now!
                                             </a></button>

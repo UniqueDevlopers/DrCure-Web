@@ -3,7 +3,7 @@
      <div class="container">
          <div class="row justify-content-center">
 
-             <h1 class="m-auto text-center font-weight-bold headstore py-3">Associate with Aster Pharmacy as a Vendor
+             <h1 class="m-auto text-center font-weight-bold headstore py-3">Associate with DrCure Pharmacy as a Vendor
                  / Business Leads</h1>
 
 

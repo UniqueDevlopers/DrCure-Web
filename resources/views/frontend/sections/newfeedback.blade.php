@@ -12,7 +12,8 @@
                         <div class="feedbackheadbg">
                             <!-- <h1 class="m-auto text-center font-weight-bold headstore py-3">Associate with Aster <br>Pharmacy as a Vendor<br>
                 / Business Leads</h1> -->
-                            <h4 class="m-auto text-center font-weight-bold headstore py-3">Associate with Aster Pharmacy
+                            <h4 class="m-auto text-center font-weight-bold headstore py-3">Associate with DrCure
+                                Pharmacy
                                 as a <br> Vendor
                                 / Business Leads</h4>
                         </div>
@@ -65,7 +66,7 @@
                 <div class="col-lg-6">
                     <div class="feedbackheadbgmob mb-md-5 pb-md-5 mb-3 pb-3">
                         <h1 class="font-weight-bold headstore">Leave a Feedback</h1>
-                        <h5 class="grey">Share your experience with Aster Pharmacy</h5>
+                        <h5 class="grey">Share your experience with DrCure Pharmacy</h5>
                     </div>
                     <form class="feedback-form bgfeedmob px-5 pt-3" name="feedback-form" id="main_form1" method="post"
                     action="javascript:alert(grecaptcha.getResponse(widgetId2));">

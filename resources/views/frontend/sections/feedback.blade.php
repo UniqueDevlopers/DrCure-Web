@@ -11,7 +11,7 @@
                     <div class="">
                         <div class="feedbackheadbg">
                             <h1 class="font-weight-bold headstore">Leave a Feedback</h1>
-                            <h6 class="grey txtcenter-mob">Share your experience with Aster Pharmacy</h6>
+                            <h6 class="grey txtcenter-mob">Share your experience with DrCure Pharmacy</h6>
                         </div>
                         <form class="feedback-form" name="feedback-form" id="main_form" method="post">
                             <div id="allerror" class="px-4 mb-1 text-white font-weight-bold pt-3 h5"></div>
@@ -80,7 +80,7 @@
                 <div class="col-lg-6">
                     <div class="feedbackheadbgmob mb-md-5 pb-md-5 mb-3 pb-3">
                         <h1 class="font-weight-bold headstore">Leave a Feedback</h1>
-                        <h5 class="grey">Share your experience with Aster Pharmacy</h5>
+                        <h5 class="grey">Share your experience with DrCure Pharmacy</h5>
                     </div>
                     <form class="feedback-form bgfeedmob px-sm-5 px-2 pt-3" name="feedback-form" id="main_form1"
                         method="post" action="javascript:alert(grecaptcha.getResponse(widgetId2));">
@@ -116,7 +116,7 @@
                             </div>
                             <div id="g-recaptcha1" class="input-group mb-3 py-2"></div>
                             <input type="hidden" id="g-res1" name="g-res1" />
-                            
+
 
                             <input class="btn btnblue btnbluemob mt-3 text-white m-auto" id="submit_btn1"
                                 type="button" value="Submit">

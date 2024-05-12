@@ -6,28 +6,30 @@
                         src="images/Aster%20Pharmacy_Logo-03.png" class="img-fluid w-100"></a>
             </div>
             <div class="col-lg-5 d-flex txtcenter-mob">
-                <!-- <p class="text-white">Aster Pharmacy is a chain of retail pharmacy stores. Currently is has 25+ stores
+                <!-- <p class="text-white">DrCure Pharmacy is a chain of retail pharmacy stores. Currently is has 25+ stores
                     in the city of Bangalore and it will soon be opening more stores in Kerala, Hyderabad & Kolhapur.
                 </p> -->
-                <p class="text-white">Aster Pharmacy is one of the largest retail pharmacy groups in the middle east and
+                <p class="text-white">DrCure Pharmacy is one of the largest retail pharmacy groups in the middle east
+                    and
                     is now present in India. We opened India's 1st friendly neighbourhood pharmacy in February 2021 and
                     are rapidly expanding.</p>
             </div>
             <div class="col-lg-2 d-lg-none d-block txtcenter-mob ">
                 <p class="text-white font-weight-bold text-decoration-underline">Get In Touch</p>
                 <h6 class="font-weight-bold bluefoot mb-4"><a href="https://api.whatsapp.com/send?phone=918904419944"
-                        target="_blank"><img src="{{ url('frontend/images/call%20icon%20free%20delivery.svg')}}" class="img-fluid"> </a><a
-                        href="tel:1800-102-3186" style="color:inherit; display: inline-block;">1800-102-3186 (Toll-Free
+                        target="_blank"><img src="{{ url('frontend/images/call%20icon%20free%20delivery.svg') }}"
+                            class="img-fluid"> </a><a href="tel:1800-102-3186"
+                        style="color:inherit; display: inline-block;">1800-102-3186 (Toll-Free
                         No.)</a></h6>
                 <h6 class="font-weight-bold bluefoot mb-4"><a href="https://api.whatsapp.com/send?phone=918904419944"
-                        target="_blank"><img style="filter: invert(1) !important;" src="{{ url('frontend/images/email-new.png')}}"
-                            class="img-fluid"> </a><a
+                        target="_blank"><img style="filter: invert(1) !important;"
+                            src="{{ url('frontend/images/email-new.png') }}" class="img-fluid"> </a><a
                         href="cdn-cgi/l/email-protection.html#51322422253e3c342332302334113022253423213930233c3032287f383f"
                         style="color:inherit; display: inline-block;"><span class="__cf_email__"
                             data-cfemail="5635232522393b332435372433163725223324263e37243b37352f783f38">[email&#160;protected]</span></a>
                 </h6>
                 <h6 class="font-weight-bold bluefoot"><a href="https://api.whatsapp.com/send?phone=918904419944"
-                        target="_blank"><img src="{{ url('frontend/images/whatsapp.png')}}" class="img-fluid"> </a><a
+                        target="_blank"><img src="{{ url('frontend/images/whatsapp.png') }}" class="img-fluid"> </a><a
                         href="tel:+91 8904419944" style="color:inherit; display: inline-block;">+91 8904419944</a>
                 </h6>
 
@@ -130,12 +132,13 @@
                 <p class="text-white font-weight-bold footheadp mb-4 ml-5 text-decoration-underline">Get In Touch</p>
                 <h6 class="font-weight-bold bluefoot footcall mtdesk mb-4"><a
                         href="https://api.whatsapp.com/send?phone=918904419944" target="_blank"><img
-                            src="{{ url('frontend/images/call%20icon%20free%20delivery.svg')}}" class="img-fluid"> </a><a
-                        href="tel:1800-102-3186" style="color:inherit; display: inline-block;">1800-102-3186
+                            src="{{ url('frontend/images/call%20icon%20free%20delivery.svg') }}" class="img-fluid">
+                    </a><a href="tel:1800-102-3186" style="color:inherit; display: inline-block;">1800-102-3186
                         (Toll-Free No.)</a></h6>
                 <h6 class="font-weight-bold bluefoot footcall mtdesk mb-4"><a
                         href="https://api.whatsapp.com/send?phone=918904419944" target="_blank"><img
-                            style="filter: invert(1) !important;" src="{{ url('frontend/images/email-new.png')}}" class="img-fluid">
+                            style="filter: invert(1) !important;" src="{{ url('frontend/images/email-new.png') }}"
+                            class="img-fluid">
                     </a><a
                         href="cdn-cgi/l/email-protection.html#7b180e080f14161e09181a091e3b1a080f1e090b131a09161a1802551215"
                         style="color:inherit; display: inline-block;"><span class="__cf_email__"
@@ -143,8 +146,9 @@
                 </h6>
                 <h6 class="font-weight-bold bluefoot footcall mtdesk"><a
                         href="https://api.whatsapp.com/send?phone=918904419944" target="_blank"><img
-                            src="{{ url('frontend/images/whatsapp.png')}}" class="img-fluid"> </a><a href="tel:+91 8904419944"
-                        style="color:inherit; display: inline-block;">+91 8904419944</a></h6>
+                            src="{{ url('frontend/images/whatsapp.png') }}" class="img-fluid"> </a><a
+                        href="tel:+91 8904419944" style="color:inherit; display: inline-block;">+91 8904419944</a>
+                </h6>
 
             </div>
             <div class="col-lg-2 txtcenter-mob text-md-center">
@@ -188,9 +192,9 @@
                                     <img src="{{ url('frontend/images/location-on.svg') }}" alt="">
                                 </div>
                                 <div class="icon-call">
-                                    <!-- <p class="address">Aster Pharmacy, Awfis, <br>Renaissance Centra, 27, 27/1, Kalinga Rao Road,<br> Mission Road Sampangi Ramanagar, Bengaluru, Karnataka 560027.<br>
+                                    <!-- <p class="address">DrCure Pharmacy, Awfis, <br>Renaissance Centra, 27, 27/1, Kalinga Rao Road,<br> Mission Road Sampangi Ramanagar, Bengaluru, Karnataka 560027.<br>
                                     </p> -->
-                                    <p class="address"><b>Aster Pharmacy (Alfaone Retail Pharmacies Private Limited)
+                                    <p class="address"><b>DrCure Pharmacy (Alfaone Retail Pharmacies Private Limited)
                                         </b><br>Anjuman Kay Arr Towers, Ground Floor<br> 28, PID. 77-1-28, P Kalinga Rao
                                         Road,<br> Bengaluru, Karnataka 560027.<br>
                                     </p>
@@ -212,7 +216,7 @@
                         <div class="col-sm-4 p-0">
                             <div class="info-icon d-flex justify-content-center align-items-center device-mail">
                                 <div class="icon-img justify-content-center">
-                                    <img src="{{ url('frontend/images/ionic-md-mail.svg')}}" alt="">
+                                    <img src="{{ url('frontend/images/ionic-md-mail.svg') }}" alt="">
                                 </div>
                                 <div class="icon-call">
                                     <a
@@ -236,7 +240,7 @@
                                     class="img-fluid w-100"></a>
                         </div>
                         <div class="col-lg-7 txtcenter-mob">
-                            <p class="text-white">Aster Pharmacy is one of the largest retail pharmacy groups in the
+                            <p class="text-white">DrCure Pharmacy is one of the largest retail pharmacy groups in the
                                 middle east and
                                 is now present in India. We opened India's 1st friendly neighbourhood pharmacy in
                                 February 2021 and
@@ -317,7 +321,7 @@
                 <!--  <a href="" class="text-white">Terms of Service</a> -->
             </div>
             <div class="col-lg-9 copy txtcenter-mob">
-                <p>© 2024 Aster Pharmacy. All Rights Reserved </p>
+                <p>© 2024 DrCure Pharmacy. All Rights Reserved </p>
             </div>
             <div class="col-lg-3 d-lg-block d-none cur" data-toggle="modal1" data-target="#exampleModalCenter">
                 <a class="text-white pr-3 font-weight-normal d-block text-right" href="privacy.html"
@@ -772,7 +776,8 @@
     </div>
 </div>
 
-<script data-cfasync="false" src="{{ url('cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js') }}"></script>
+<script data-cfasync="false" src="{{ url('cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js') }}">
+</script>
 <script src="{{ url('frontend/scripts/jquery.min.js') }}"></script>
 <script src="{{ url('frontend/scripts/popper.min.js') }}"></script>
 <script src="{{ url('frontend/scripts/bootstrap.min.js') }}"></script>

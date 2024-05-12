@@ -7,7 +7,7 @@
              <div class="col-lg-6">
                  <div class="py-5 pr-5 career">
                      <h1 class="m-auto font-weight-bold headstore txtcenter-mob">Careers</h1>
-                     <p class="black pt-3 pb-3 txtcenter-mob">Join Aster Pharmacy – India & give a boost to your
+                     <p class="black pt-3 pb-3 txtcenter-mob">Join DrCure Pharmacy – India & give a boost to your
                          career. Join us to redefine the retail pharmacy sector.</p>
                      <!-- <p class="bluepromise bor-bot font-weight-bold">Pharmacist – Bangalore (10)</p>
                         <p class="bluepromise bor-bot font-weight-bold">Pharmacist – Kochi (5)</p> -->
