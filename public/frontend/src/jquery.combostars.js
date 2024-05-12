@@ -22,7 +22,7 @@ $(function () {
 		'use strict';
 
 		var options = {
-			starUrl: 'src/img/46x50.png',
+			starUrl: 'frontend/src/img/46x50.png',
 			starWidth: 36,
 			starHeight: 24,
 			clickMiddle: true
