@@ -18,8 +18,8 @@
                 <p class="text-white font-weight-bold text-decoration-underline">Get In Touch</p>
                 <h6 class="font-weight-bold bluefoot mb-4"><a href="https://api.whatsapp.com/send?phone=918317673857"
                         target="_blank"><img src="{{ url('frontend/images/call%20icon%20free%20delivery.svg') }}"
-                            class="img-fluid"> </a><a href="tel:1800-102-3186"
-                        style="color:inherit; display: inline-block;">1800-102-3186 (Toll-Free
+                            class="img-fluid"> </a><a href="tel:8317673857"
+                        style="color:inherit; display: inline-block;">8317673857 (Toll-Free
                         No.)</a></h6>
                 <h6 class="font-weight-bold bluefoot mb-4"><a href="https://api.whatsapp.com/send?phone=918317673857"
                         target="_blank"><img style="filter: invert(1) !important;"
@@ -133,7 +133,7 @@
                 <h6 class="font-weight-bold bluefoot footcall mtdesk mb-4"><a
                         href="https://api.whatsapp.com/send?phone=918317673857" target="_blank"><img
                             src="{{ url('frontend/images/call%20icon%20free%20delivery.svg') }}" class="img-fluid">
-                    </a><a href="tel:1800-102-3186" style="color:inherit; display: inline-block;">1800-102-3186
+                    </a><a href="tel:8317673857" style="color:inherit; display: inline-block;">8317673857
                         (Toll-Free No.)</a></h6>
                 <h6 class="font-weight-bold bluefoot footcall mtdesk mb-4"><a
                         href="https://api.whatsapp.com/send?phone=918317673857" target="_blank"><img
@@ -208,7 +208,7 @@
                                 </div>
                                 <div class="icon-call">
                                     <a style="color: white;" href="tel:18001023186">
-                                        <p class="call">1800-102-3186</p>
+                                        <p class="call">8317673857</p>
                                     </a>
                                 </div>
                             </div>
