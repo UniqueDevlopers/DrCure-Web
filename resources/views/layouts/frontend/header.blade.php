@@ -11,7 +11,6 @@
         content="DrCure Pharmacy is one of the largest retail pharmacy groups in the Middle East and is now present in India. Order Medicines from DrCure Pharmacy stores and experience the fastest home delivery.">
     <meta name="keywords" content="">
     <meta name="author" content="">
-    <meta name="facebook-domain-verification" content="bg5lefa5p2yv7zkym3g7boe7wqzase" />
     <link rel="shortcut icon" href="images/Astra%20Clear%20logo/Aster%20farmacy%20favicon.png" type="image/png">
     <link rel="stylesheet" href="{{ url('frontend/styles/bootstrap.min.css') }}">
     <link rel="stylesheet" href="{{ url('frontend/styles/jquery.fancybox.min.css') }}">
@@ -56,6 +55,17 @@
                         <li class="nav-item">
                             <a class="nav-link" href="#our_promise">Our Promise</a>
                         </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="partnershipDropdown" role="button"
+                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Partnership
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="partnershipDropdown">
+                                <a class="dropdown-item" href="#partner">Pratner With Us</a>
+                                <a class="dropdown-item" href="#sell_pharmacy">Sell Your Pharmacy</a>
+                                <a class="dropdown-item" href="#franchise">Franchise</a>
+                            </div>
+                        </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#careers">Careers</a>
                         </li>
@@ -69,26 +79,26 @@
                     <div style="display: inline-block; vertical-align: middle;"><span class="fhd"
                             class="text-center"> <strong>FREE HOME DELIVERY</strong></span>
 
-                        <span class="fhdno mt-2"><a href="tel:+91 8904419944"
+                        <span class="fhdno mt-2"><a href="tel:+91 8317673857"
                                 style="color:inherit; display: inline-block;">
 
                                 <img src="{{ url('frontend/images/callicon.svg') }}" class="img-fluid"> +91
-                                8904419944</a></span>
+                                8317673857</a></span>
 
-                        <span class=""><a href="https://api.whatsapp.com/send?phone=918904419944" target="_blank">
+                        <span class=""><a href="https://api.whatsapp.com/send?phone=918317673857" target="_blank">
                                 <img src="{{ url('frontend/images/whatsapp%20help%20icon.svg') }}"
                                     class="img-fluid display"> &nbsp;
                             </a> </span>
                     </div>
                 </button>
 
-                <a href="tel:+91 8904419944"
+                <a href="tel:+91 8317673857"
                     class="btn  text-left font-weight-bold ml-4 mobbtn d-lg-none d-block pt-1 pb-1 pl-0 pr-1">
 
                     <span class="tt hdno mt-2 text-bl"><img src="{{ url('frontend/images/callicon.svg') }}"
                             class="img-fluid text-blue"> +91
-                        8904419944</span> </a>
-                <a href="https://api.whatsapp.com/send?phone=918904419944"
+                        8317673857</span> </a>
+                <a href="https://api.whatsapp.com/send?phone=918317673857"
                     class=" btn btn-warning  text-white font-weight-bold ml-5 mobbtn d-lg-none d-block pt-1 pb-1 pl-0 pr-1">
                     <span class="tt "><img src="{{ url('frontend/images/whatsapp%20help%20icon.svg') }}"
                             class="img-fluid btnwht">
