@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37">
   <g id="Hamburger_icon" data-name="Hamburger icon" transform="translate(-316 -32)">
     <g id="Icon_" data-name="Icon " transform="translate(316 32)">
-      <rect id="Area_ICON:feather_menu_SIZE:LARGE_STYLE:STYLE1_" data-name="Area [ICON:feather/menu][SIZE:LARGE][STYLE:STYLE1]" width="37" height="37" fill="#00b48d" opacity="0"/>
+      <rect id="Area_ICON:feather_menu_SIZE:LARGE_STYLE:STYLE1_" data-name="Area [ICON:feather/menu][SIZE:LARGE][STYLE:STYLE1]" width="37" height="37" fill="#4398CF" opacity="0"/>
       <g id="Icon" transform="translate(4.625 9.25)">
-        <line id="Line" x2="27" transform="translate(0.375 9.75)" fill="none" stroke="#00b48d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
-        <line id="Line-2" data-name="Line" x2="27" transform="translate(0.375 -0.25)" fill="none" stroke="#00b48d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
-        <line id="Line-3" data-name="Line" x2="27" transform="translate(0.375 18.75)" fill="none" stroke="#00b48d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+        <line id="Line" x2="27" transform="translate(0.375 9.75)" fill="none" stroke="#4398CF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+        <line id="Line-2" data-name="Line" x2="27" transform="translate(0.375 -0.25)" fill="none" stroke="#4398CF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+        <line id="Line-3" data-name="Line" x2="27" transform="translate(0.375 18.75)" fill="none" stroke="#4398CF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
       </g>
     </g>
   </g>
