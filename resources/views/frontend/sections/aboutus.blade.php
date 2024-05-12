@@ -13,7 +13,7 @@
                      <h1 class="m-auto font-weight-bold text-center text-white pb-3 d-lg-none d-block">Your Friendly
                          <br>Neighbourhood Pharmacy
                      </h1>
-                     <p class="text-white txtcenter-mob"><strong>Aster Pharmacy</strong> is one of the largest retail
+                     <p class="text-white txtcenter-mob"><strong>DrCure Pharmacy</strong> is one of the largest retail
                          pharmacy groups in the middle east and is now present in India. We opened India’s 1st
                          friendly neighbourhood pharmacy in February 2021 and are rapidly expanding.</p>
                      <p class="text-white txtcenter-mob"> With 3 decades of experience in the health care industry,
