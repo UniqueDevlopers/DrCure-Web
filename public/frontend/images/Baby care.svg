@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="65" height="65" viewBox="0 0 79.08 98">
   <defs>
     <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
-      <stop offset="0" stop-color="#00b48d"/>
+      <stop offset="0" stop-color="#4398CF"/>
       <stop offset="1" stop-color="#4b8cdd"/>
     </linearGradient>
     <filter id="Baby_care" x="0" y="0" width="79.08" height="98" filterUnits="userSpaceOnUse">
