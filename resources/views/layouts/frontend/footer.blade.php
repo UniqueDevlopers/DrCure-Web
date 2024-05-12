@@ -16,21 +16,21 @@
             </div>
             <div class="col-lg-2 d-lg-none d-block txtcenter-mob ">
                 <p class="text-white font-weight-bold text-decoration-underline">Get In Touch</p>
-                <h6 class="font-weight-bold bluefoot mb-4"><a href="https://api.whatsapp.com/send?phone=918904419944"
+                <h6 class="font-weight-bold bluefoot mb-4"><a href="https://api.whatsapp.com/send?phone=918317673857"
                         target="_blank"><img src="{{ url('frontend/images/call%20icon%20free%20delivery.svg') }}"
                             class="img-fluid"> </a><a href="tel:1800-102-3186"
                         style="color:inherit; display: inline-block;">1800-102-3186 (Toll-Free
                         No.)</a></h6>
-                <h6 class="font-weight-bold bluefoot mb-4"><a href="https://api.whatsapp.com/send?phone=918904419944"
+                <h6 class="font-weight-bold bluefoot mb-4"><a href="https://api.whatsapp.com/send?phone=918317673857"
                         target="_blank"><img style="filter: invert(1) !important;"
                             src="{{ url('frontend/images/email-new.png') }}" class="img-fluid"> </a><a
                         href="cdn-cgi/l/email-protection.html#51322422253e3c342332302334113022253423213930233c3032287f383f"
                         style="color:inherit; display: inline-block;"><span class="__cf_email__"
                             data-cfemail="5635232522393b332435372433163725223324263e37243b37352f783f38">[email&#160;protected]</span></a>
                 </h6>
-                <h6 class="font-weight-bold bluefoot"><a href="https://api.whatsapp.com/send?phone=918904419944"
+                <h6 class="font-weight-bold bluefoot"><a href="https://api.whatsapp.com/send?phone=918317673857"
                         target="_blank"><img src="{{ url('frontend/images/whatsapp.png') }}" class="img-fluid"> </a><a
-                        href="tel:+91 8904419944" style="color:inherit; display: inline-block;">+91 8904419944</a>
+                        href="tel:+91 8317673857" style="color:inherit; display: inline-block;">+91 8317673857</a>
                 </h6>
 
             </div>
@@ -131,12 +131,12 @@
             <div class="col-lg-3 d-lg-block d-none">
                 <p class="text-white font-weight-bold footheadp mb-4 ml-5 text-decoration-underline">Get In Touch</p>
                 <h6 class="font-weight-bold bluefoot footcall mtdesk mb-4"><a
-                        href="https://api.whatsapp.com/send?phone=918904419944" target="_blank"><img
+                        href="https://api.whatsapp.com/send?phone=918317673857" target="_blank"><img
                             src="{{ url('frontend/images/call%20icon%20free%20delivery.svg') }}" class="img-fluid">
                     </a><a href="tel:1800-102-3186" style="color:inherit; display: inline-block;">1800-102-3186
                         (Toll-Free No.)</a></h6>
                 <h6 class="font-weight-bold bluefoot footcall mtdesk mb-4"><a
-                        href="https://api.whatsapp.com/send?phone=918904419944" target="_blank"><img
+                        href="https://api.whatsapp.com/send?phone=918317673857" target="_blank"><img
                             style="filter: invert(1) !important;" src="{{ url('frontend/images/email-new.png') }}"
                             class="img-fluid">
                     </a><a
@@ -145,9 +145,9 @@
                             data-cfemail="50332523243f3d352233312235103123243522203831223d3133297e393e">[email&#160;protected]</span></a>
                 </h6>
                 <h6 class="font-weight-bold bluefoot footcall mtdesk"><a
-                        href="https://api.whatsapp.com/send?phone=918904419944" target="_blank"><img
+                        href="https://api.whatsapp.com/send?phone=918317673857" target="_blank"><img
                             src="{{ url('frontend/images/whatsapp.png') }}" class="img-fluid"> </a><a
-                        href="tel:+91 8904419944" style="color:inherit; display: inline-block;">+91 8904419944</a>
+                        href="tel:+91 8317673857" style="color:inherit; display: inline-block;">+91 8317673857</a>
                 </h6>
 
             </div>
