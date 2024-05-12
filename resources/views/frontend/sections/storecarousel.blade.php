@@ -8,7 +8,7 @@
                         <div id="owl-demo" class="owl-carousel owl-theme mt-0 bannerimage_slide owl-loaded"><div class="owl-stage-outer"><div class="owl-stage" style="transition: all 0.3s ease 0s; width: 74865px; transform: translate3d(-6975px, 0px, 0px);"><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221281 arrow pt-5" data-position="0">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="13.060486" data-long="77.5038751" class="text-white d-block" onclick="viewmap(13.060486,77.5038751, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="13.060486" data-long="77.5038751" class="text-white d-block" onclick="viewmap(13.060486,77.5038751, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -55,7 +55,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222534 arrow pt-5" data-position="1">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="11.2698263" data-long="75.8395141" class="text-white d-block" onclick="viewmap(11.2698263,75.8395141, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="11.2698263" data-long="75.8395141" class="text-white d-block" onclick="viewmap(11.2698263,75.8395141, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -102,7 +102,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222504 arrow pt-5" data-position="2">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="9.9416646" data-long="76.2952918" class="text-white d-block" onclick="viewmap(9.9416646,76.2952918, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="9.9416646" data-long="76.2952918" class="text-white d-block" onclick="viewmap(9.9416646,76.2952918, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -149,7 +149,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221270 arrow pt-5" data-position="3">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="15.4404704" data-long="75.0245766" class="text-white d-block" onclick="viewmap(15.4404704,75.0245766, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="15.4404704" data-long="75.0245766" class="text-white d-block" onclick="viewmap(15.4404704,75.0245766, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -196,7 +196,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222502 arrow pt-5" data-position="4">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="10.1303994" data-long="76.2934571" class="text-white d-block" onclick="viewmap(10.1303994,76.2934571, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="10.1303994" data-long="76.2934571" class="text-white d-block" onclick="viewmap(10.1303994,76.2934571, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -243,7 +243,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221287 arrow pt-5" data-position="5">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="15.4726771" data-long="74.9928554" class="text-white d-block" onclick="viewmap(15.4726771,74.9928554, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="15.4726771" data-long="74.9928554" class="text-white d-block" onclick="viewmap(15.4726771,74.9928554, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -290,7 +290,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222480 arrow pt-5" data-position="6">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.3219549" data-long="78.5720576" class="text-white d-block" onclick="viewmap(17.3219549,78.5720576, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.3219549" data-long="78.5720576" class="text-white d-block" onclick="viewmap(17.3219549,78.5720576, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -337,7 +337,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11233083 arrow pt-5" data-position="7">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="10.00260592" data-long="76.34921404" class="text-white d-block" onclick="viewmap(10.00260592,76.34921404, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="10.00260592" data-long="76.34921404" class="text-white d-block" onclick="viewmap(10.00260592,76.34921404, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -384,7 +384,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222509 arrow pt-5" data-position="8">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="11.9271" data-long="75.5719413" class="text-white d-block" onclick="viewmap(11.9271,75.5719413, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="11.9271" data-long="75.5719413" class="text-white d-block" onclick="viewmap(11.9271,75.5719413, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -431,7 +431,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222518 arrow pt-5" data-position="9">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="10.1247218" data-long="76.3330816" class="text-white d-block" onclick="viewmap(10.1247218,76.3330816, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="10.1247218" data-long="76.3330816" class="text-white d-block" onclick="viewmap(10.1247218,76.3330816, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -478,7 +478,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222523 arrow pt-5" data-position="10">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="9.4445849" data-long="76.5471149" class="text-white d-block" onclick="viewmap(9.4445849,76.5471149, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="9.4445849" data-long="76.5471149" class="text-white d-block" onclick="viewmap(9.4445849,76.5471149, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -525,7 +525,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11238668 arrow pt-5" data-position="11">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="11.2335774" data-long="75.7893569" class="text-white d-block" onclick="viewmap(11.2335774,75.7893569, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="11.2335774" data-long="75.7893569" class="text-white d-block" onclick="viewmap(11.2335774,75.7893569, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -572,7 +572,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221286 arrow pt-5" data-position="12">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.2958104" data-long="76.6393805" class="text-white d-block" onclick="viewmap(12.2958104,76.6393805, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.2958104" data-long="76.6393805" class="text-white d-block" onclick="viewmap(12.2958104,76.6393805, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -619,7 +619,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11233080 arrow pt-5" data-position="13">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="10.1171363" data-long="76.443543" class="text-white d-block" onclick="viewmap(10.1171363,76.443543, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="10.1171363" data-long="76.443543" class="text-white d-block" onclick="viewmap(10.1171363,76.443543, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -666,7 +666,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11223450 arrow pt-5" data-position="14">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.41812" data-long="78.1222336" class="text-white d-block" onclick="viewmap(17.41812,78.1222336, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.41812" data-long="78.1222336" class="text-white d-block" onclick="viewmap(17.41812,78.1222336, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -713,7 +713,7 @@
                 </div></div><div class="owl-item active" style="width: 440px; margin-right: 25px;"><div class="item item11222464 arrow pt-5" data-position="15">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.7419124" data-long="78.2816722" class="text-white d-block" onclick="viewmap(17.7419124,78.2816722, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.7419124" data-long="78.2816722" class="text-white d-block" onclick="viewmap(17.7419124,78.2816722, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -760,7 +760,7 @@
                 </div></div><div class="owl-item myactive active center" style="width: 440px; margin-right: 25px;"><div class="item item11222851 arrow pt-5" data-position="16">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.5573779115709" data-long="78.4386897" class="text-white d-block" onclick="viewmap(17.5573779115709,78.4386897, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.5573779115709" data-long="78.4386897" class="text-white d-block" onclick="viewmap(17.5573779115709,78.4386897, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -807,7 +807,7 @@
                 </div></div><div class="owl-item active" style="width: 440px; margin-right: 25px;"><div class="item item11222799 arrow pt-5" data-position="17">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.957160452418" data-long="74.8083695134907" class="text-white d-block" onclick="viewmap(12.957160452418,74.8083695134907, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.957160452418" data-long="74.8083695134907" class="text-white d-block" onclick="viewmap(12.957160452418,74.8083695134907, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -854,7 +854,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11238669 arrow pt-5" data-position="18">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="8.512729886" data-long="76.9696548" class="text-white d-block" onclick="viewmap(8.512729886,76.9696548, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="8.512729886" data-long="76.9696548" class="text-white d-block" onclick="viewmap(8.512729886,76.9696548, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -901,7 +901,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222465 arrow pt-5" data-position="19">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.3124798" data-long="78.1400021" class="text-white d-block" onclick="viewmap(17.3124798,78.1400021, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.3124798" data-long="78.1400021" class="text-white d-block" onclick="viewmap(17.3124798,78.1400021, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -948,7 +948,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221277 arrow pt-5" data-position="20">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="13.0002486" data-long="77.48513" class="text-white d-block" onclick="viewmap(13.0002486,77.48513, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="13.0002486" data-long="77.48513" class="text-white d-block" onclick="viewmap(13.0002486,77.48513, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -995,7 +995,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221275 arrow pt-5" data-position="21">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.904378" data-long="77.5210679" class="text-white d-block" onclick="viewmap(12.904378,77.5210679, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.904378" data-long="77.5210679" class="text-white d-block" onclick="viewmap(12.904378,77.5210679, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -1042,7 +1042,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221404 arrow pt-5" data-position="22">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.9490366" data-long="77.7038792" class="text-white d-block" onclick="viewmap(12.9490366,77.7038792, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.9490366" data-long="77.7038792" class="text-white d-block" onclick="viewmap(12.9490366,77.7038792, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -1089,7 +1089,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221291 arrow pt-5" data-position="23">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.8929294" data-long="77.619913" class="text-white d-block" onclick="viewmap(12.8929294,77.619913, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.8929294" data-long="77.619913" class="text-white d-block" onclick="viewmap(12.8929294,77.619913, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -1136,7 +1136,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221402 arrow pt-5" data-position="24">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="13.0544023" data-long="77.6020857" class="text-white d-block" onclick="viewmap(13.0544023,77.6020857, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="13.0544023" data-long="77.6020857" class="text-white d-block" onclick="viewmap(13.0544023,77.6020857, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -1183,7 +1183,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221418 arrow pt-5" data-position="25">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.994966" data-long="77.6575721" class="text-white d-block" onclick="viewmap(12.994966,77.6575721, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.994966" data-long="77.6575721" class="text-white d-block" onclick="viewmap(12.994966,77.6575721, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -1230,7 +1230,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221290 arrow pt-5" data-position="26">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.989218" data-long="77.664357" class="text-white d-block" onclick="viewmap(12.989218,77.664357, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.989218" data-long="77.664357" class="text-white d-block" onclick="viewmap(12.989218,77.664357, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -1277,7 +1277,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221263 arrow pt-5" data-position="27">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="13.0616776" data-long="77.5310508" class="text-white d-block" onclick="viewmap(13.0616776,77.5310508, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="13.0616776" data-long="77.5310508" class="text-white d-block" onclick="viewmap(13.0616776,77.5310508, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -1324,7 +1324,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221413 arrow pt-5" data-position="28">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.9843899" data-long="77.6756912" class="text-white d-block" onclick="viewmap(12.9843899,77.6756912, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.9843899" data-long="77.6756912" class="text-white d-block" onclick="viewmap(12.9843899,77.6756912, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -1371,7 +1371,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221250 arrow pt-5" data-position="29">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="13.1042445" data-long="77.5713193" class="text-white d-block" onclick="viewmap(13.1042445,77.5713193, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="13.1042445" data-long="77.5713193" class="text-white d-block" onclick="viewmap(13.1042445,77.5713193, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -1418,7 +1418,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221419 arrow pt-5" data-position="30">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="13.0576262" data-long="77.5892283" class="text-white d-block" onclick="viewmap(13.0576262,77.5892283, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="13.0576262" data-long="77.5892283" class="text-white d-block" onclick="viewmap(13.0576262,77.5892283, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -1465,7 +1465,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221272 arrow pt-5" data-position="31">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.8985576" data-long="77.6586719" class="text-white d-block" onclick="viewmap(12.8985576,77.6586719, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.8985576" data-long="77.6586719" class="text-white d-block" onclick="viewmap(12.8985576,77.6586719, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -1512,7 +1512,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221415 arrow pt-5" data-position="32">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.9216676" data-long="77.5971808" class="text-white d-block" onclick="viewmap(12.9216676,77.5971808, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.9216676" data-long="77.5971808" class="text-white d-block" onclick="viewmap(12.9216676,77.5971808, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -1559,7 +1559,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221266 arrow pt-5" data-position="33">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.9066444" data-long="77.5439162" class="text-white d-block" onclick="viewmap(12.9066444,77.5439162, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.9066444" data-long="77.5439162" class="text-white d-block" onclick="viewmap(12.9066444,77.5439162, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -1606,7 +1606,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221403 arrow pt-5" data-position="34">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.904953" data-long="77.6957036" class="text-white d-block" onclick="viewmap(12.904953,77.6957036, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.904953" data-long="77.6957036" class="text-white d-block" onclick="viewmap(12.904953,77.6957036, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -1653,7 +1653,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221276 arrow pt-5" data-position="35">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="13.0289102" data-long="77.5788946" class="text-white d-block" onclick="viewmap(13.0289102,77.5788946, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="13.0289102" data-long="77.5788946" class="text-white d-block" onclick="viewmap(13.0289102,77.5788946, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -1700,7 +1700,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11245467 arrow pt-5" data-position="36">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="13.03225876" data-long="77.68506867" class="text-white d-block" onclick="viewmap(13.03225876,77.68506867, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="13.03225876" data-long="77.68506867" class="text-white d-block" onclick="viewmap(13.03225876,77.68506867, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -1747,7 +1747,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222457 arrow pt-5" data-position="37">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.882077" data-long="77.626041" class="text-white d-block" onclick="viewmap(12.882077,77.626041, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.882077" data-long="77.626041" class="text-white d-block" onclick="viewmap(12.882077,77.626041, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -1794,7 +1794,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221414 arrow pt-5" data-position="38">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="13.0348292" data-long="77.6063492" class="text-white d-block" onclick="viewmap(13.0348292,77.6063492, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="13.0348292" data-long="77.6063492" class="text-white d-block" onclick="viewmap(13.0348292,77.6063492, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -1841,7 +1841,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221426 arrow pt-5" data-position="39">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.9850083" data-long="77.7119145" class="text-white d-block" onclick="viewmap(12.9850083,77.7119145, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.9850083" data-long="77.7119145" class="text-white d-block" onclick="viewmap(12.9850083,77.7119145, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -1888,7 +1888,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221408 arrow pt-5" data-position="40">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="13.1045249" data-long="77.6088377" class="text-white d-block" onclick="viewmap(13.1045249,77.6088377, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="13.1045249" data-long="77.6088377" class="text-white d-block" onclick="viewmap(13.1045249,77.6088377, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -1935,7 +1935,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221427 arrow pt-5" data-position="41">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.914625" data-long="77.591631" class="text-white d-block" onclick="viewmap(12.914625,77.591631, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.914625" data-long="77.591631" class="text-white d-block" onclick="viewmap(12.914625,77.591631, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -1982,7 +1982,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221421 arrow pt-5" data-position="42">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.900991" data-long="77.5885492" class="text-white d-block" onclick="viewmap(12.900991,77.5885492, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.900991" data-long="77.5885492" class="text-white d-block" onclick="viewmap(12.900991,77.5885492, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -2029,7 +2029,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221410 arrow pt-5" data-position="43">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="13.0928291" data-long="77.5460106" class="text-white d-block" onclick="viewmap(13.0928291,77.5460106, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="13.0928291" data-long="77.5460106" class="text-white d-block" onclick="viewmap(13.0928291,77.5460106, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -2076,7 +2076,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221279 arrow pt-5" data-position="44">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="13.0274352" data-long="77.6042513" class="text-white d-block" onclick="viewmap(13.0274352,77.6042513, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="13.0274352" data-long="77.6042513" class="text-white d-block" onclick="viewmap(13.0274352,77.6042513, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -2123,7 +2123,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221284 arrow pt-5" data-position="45">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.9278401" data-long="77.6887513" class="text-white d-block" onclick="viewmap(12.9278401,77.6887513, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.9278401" data-long="77.6887513" class="text-white d-block" onclick="viewmap(12.9278401,77.6887513, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -2170,7 +2170,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221417 arrow pt-5" data-position="46">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.9755231" data-long="77.4974864" class="text-white d-block" onclick="viewmap(12.9755231,77.4974864, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.9755231" data-long="77.4974864" class="text-white d-block" onclick="viewmap(12.9755231,77.4974864, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -2217,7 +2217,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221262 arrow pt-5" data-position="47">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.9921466" data-long="77.6680515" class="text-white d-block" onclick="viewmap(12.9921466,77.6680515, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.9921466" data-long="77.6680515" class="text-white d-block" onclick="viewmap(12.9921466,77.6680515, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -2264,7 +2264,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221257 arrow pt-5" data-position="48">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.8620399" data-long="77.5997231" class="text-white d-block" onclick="viewmap(12.8620399,77.5997231, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.8620399" data-long="77.5997231" class="text-white d-block" onclick="viewmap(12.8620399,77.5997231, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -2311,7 +2311,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221265 arrow pt-5" data-position="49">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.9683801" data-long="77.6844559" class="text-white d-block" onclick="viewmap(12.9683801,77.6844559, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.9683801" data-long="77.6844559" class="text-white d-block" onclick="viewmap(12.9683801,77.6844559, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -2358,7 +2358,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222459 arrow pt-5" data-position="50">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="13.0022509" data-long="77.5524231" class="text-white d-block" onclick="viewmap(13.0022509,77.5524231, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="13.0022509" data-long="77.5524231" class="text-white d-block" onclick="viewmap(13.0022509,77.5524231, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -2405,7 +2405,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221268 arrow pt-5" data-position="51">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="13.0480868" data-long="77.5492726" class="text-white d-block" onclick="viewmap(13.0480868,77.5492726, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="13.0480868" data-long="77.5492726" class="text-white d-block" onclick="viewmap(13.0480868,77.5492726, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -2452,7 +2452,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221256 arrow pt-5" data-position="52">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.9069443" data-long="77.6061629" class="text-white d-block" onclick="viewmap(12.9069443,77.6061629, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.9069443" data-long="77.6061629" class="text-white d-block" onclick="viewmap(12.9069443,77.6061629, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -2499,7 +2499,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11220813 arrow pt-5" data-position="53">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.9625477" data-long="77.5927485" class="text-white d-block" onclick="viewmap(12.9625477,77.5927485, this)">Aster Pharmacy (Alfaone Retail Pharmacies Pvt. Ltd.) Corporate &amp; Registered Office</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.9625477" data-long="77.5927485" class="text-white d-block" onclick="viewmap(12.9625477,77.5927485, this)">DrCure Pharmacy (Alfaone Retail Pharmacies Pvt. Ltd.) Corporate &amp; Registered Office</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -2546,7 +2546,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221400 arrow pt-5" data-position="54">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="13.067091" data-long="77.5009636" class="text-white d-block" onclick="viewmap(13.067091,77.5009636, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="13.067091" data-long="77.5009636" class="text-white d-block" onclick="viewmap(13.067091,77.5009636, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -2593,7 +2593,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221295 arrow pt-5" data-position="55">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.968757" data-long="77.5456804" class="text-white d-block" onclick="viewmap(12.968757,77.5456804, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.968757" data-long="77.5456804" class="text-white d-block" onclick="viewmap(12.968757,77.5456804, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -2640,7 +2640,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221264 arrow pt-5" data-position="56">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.8784564" data-long="77.6549797" class="text-white d-block" onclick="viewmap(12.8784564,77.6549797, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.8784564" data-long="77.6549797" class="text-white d-block" onclick="viewmap(12.8784564,77.6549797, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -2687,7 +2687,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221271 arrow pt-5" data-position="57">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="13.010223" data-long="77.6353567" class="text-white d-block" onclick="viewmap(13.010223,77.6353567, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="13.010223" data-long="77.6353567" class="text-white d-block" onclick="viewmap(13.010223,77.6353567, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -2734,7 +2734,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11245466 arrow pt-5" data-position="58">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="13.0001772" data-long="77.7154331" class="text-white d-block" onclick="viewmap(13.0001772,77.7154331, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="13.0001772" data-long="77.7154331" class="text-white d-block" onclick="viewmap(13.0001772,77.7154331, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -2781,7 +2781,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221267 arrow pt-5" data-position="59">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="13.0510296" data-long="77.5266551" class="text-white d-block" onclick="viewmap(13.0510296,77.5266551, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="13.0510296" data-long="77.5266551" class="text-white d-block" onclick="viewmap(13.0510296,77.5266551, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -2828,7 +2828,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221428 arrow pt-5" data-position="60">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.9523755" data-long="77.5772107" class="text-white d-block" onclick="viewmap(12.9523755,77.5772107, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.9523755" data-long="77.5772107" class="text-white d-block" onclick="viewmap(12.9523755,77.5772107, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -2875,7 +2875,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221252 arrow pt-5" data-position="61">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.8984206" data-long="77.5855194" class="text-white d-block" onclick="viewmap(12.8984206,77.5855194, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.8984206" data-long="77.5855194" class="text-white d-block" onclick="viewmap(12.8984206,77.5855194, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -2922,7 +2922,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221406 arrow pt-5" data-position="62">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.9574345" data-long="77.6604947" class="text-white d-block" onclick="viewmap(12.9574345,77.6604947, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.9574345" data-long="77.6604947" class="text-white d-block" onclick="viewmap(12.9574345,77.6604947, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -2969,7 +2969,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221399 arrow pt-5" data-position="63">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.9564342" data-long="77.6981155" class="text-white d-block" onclick="viewmap(12.9564342,77.6981155, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.9564342" data-long="77.6981155" class="text-white d-block" onclick="viewmap(12.9564342,77.6981155, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -3016,7 +3016,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11245465 arrow pt-5" data-position="64">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.96838957" data-long="77.65337153" class="text-white d-block" onclick="viewmap(12.96838957,77.65337153, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="12.96838957" data-long="77.65337153" class="text-white d-block" onclick="viewmap(12.96838957,77.65337153, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -3063,7 +3063,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221269 arrow pt-5" data-position="65">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="13.0002082" data-long="77.5377179" class="text-white d-block" onclick="viewmap(13.0002082,77.5377179, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="13.0002082" data-long="77.5377179" class="text-white d-block" onclick="viewmap(13.0002082,77.5377179, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -3110,7 +3110,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221289 arrow pt-5" data-position="66">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="13.0695697" data-long="77.6017661" class="text-white d-block" onclick="viewmap(13.0695697,77.6017661, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="13.0695697" data-long="77.6017661" class="text-white d-block" onclick="viewmap(13.0695697,77.6017661, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -3157,7 +3157,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221411 arrow pt-5" data-position="67">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="13.025025" data-long="77.6513655" class="text-white d-block" onclick="viewmap(13.025025,77.6513655, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="13.025025" data-long="77.6513655" class="text-white d-block" onclick="viewmap(13.025025,77.6513655, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -3204,7 +3204,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222532 arrow pt-5" data-position="68">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="11.2453182" data-long="75.7993092" class="text-white d-block" onclick="viewmap(11.2453182,75.7993092, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="11.2453182" data-long="75.7993092" class="text-white d-block" onclick="viewmap(11.2453182,75.7993092, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -3251,7 +3251,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222512 arrow pt-5" data-position="69">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="11.2808751" data-long="75.7704435" class="text-white d-block" onclick="viewmap(11.2808751,75.7704435, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="11.2808751" data-long="75.7704435" class="text-white d-block" onclick="viewmap(11.2808751,75.7704435, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -3298,7 +3298,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222517 arrow pt-5" data-position="70">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="11.2870574" data-long="75.7838445" class="text-white d-block" onclick="viewmap(11.2870574,75.7838445, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="11.2870574" data-long="75.7838445" class="text-white d-block" onclick="viewmap(11.2870574,75.7838445, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -3345,7 +3345,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222516 arrow pt-5" data-position="71">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="10.0068362" data-long="76.2944423" class="text-white d-block" onclick="viewmap(10.0068362,76.2944423, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="10.0068362" data-long="76.2944423" class="text-white d-block" onclick="viewmap(10.0068362,76.2944423, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -3392,7 +3392,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222513 arrow pt-5" data-position="72">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="9.9991931" data-long="76.3073423" class="text-white d-block" onclick="viewmap(9.9991931,76.3073423, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="9.9991931" data-long="76.3073423" class="text-white d-block" onclick="viewmap(9.9991931,76.3073423, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -3439,7 +3439,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11233082 arrow pt-5" data-position="73">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="9.980368305" data-long="76.31821316" class="text-white d-block" onclick="viewmap(9.980368305,76.31821316, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="9.980368305" data-long="76.31821316" class="text-white d-block" onclick="viewmap(9.980368305,76.31821316, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -3486,7 +3486,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222526 arrow pt-5" data-position="74">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="9.9506646" data-long="76.3412357" class="text-white d-block" onclick="viewmap(9.9506646,76.3412357, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="9.9506646" data-long="76.3412357" class="text-white d-block" onclick="viewmap(9.9506646,76.3412357, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -3533,7 +3533,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11233077 arrow pt-5" data-position="75">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="10.14173469" data-long="76.19327237" class="text-white d-block" onclick="viewmap(10.14173469,76.19327237, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="10.14173469" data-long="76.19327237" class="text-white d-block" onclick="viewmap(10.14173469,76.19327237, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -3580,7 +3580,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222535 arrow pt-5" data-position="76">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="10.0186298" data-long="76.3523645" class="text-white d-block" onclick="viewmap(10.0186298,76.3523645, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="10.0186298" data-long="76.3523645" class="text-white d-block" onclick="viewmap(10.0186298,76.3523645, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -3627,7 +3627,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222533 arrow pt-5" data-position="77">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="9.9576591" data-long="76.251144" class="text-white d-block" onclick="viewmap(9.9576591,76.251144, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="9.9576591" data-long="76.251144" class="text-white d-block" onclick="viewmap(9.9576591,76.251144, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -3674,7 +3674,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222501 arrow pt-5" data-position="78">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="10.1958376" data-long="76.3911162" class="text-white d-block" onclick="viewmap(10.1958376,76.3911162, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="10.1958376" data-long="76.3911162" class="text-white d-block" onclick="viewmap(10.1958376,76.3911162, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -3721,7 +3721,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222519 arrow pt-5" data-position="79">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="10.1036036" data-long="76.3584101" class="text-white d-block" onclick="viewmap(10.1036036,76.3584101, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="10.1036036" data-long="76.3584101" class="text-white d-block" onclick="viewmap(10.1036036,76.3584101, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -3768,7 +3768,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221253 arrow pt-5" data-position="80">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="14.4504235" data-long="75.9087945" class="text-white d-block" onclick="viewmap(14.4504235,75.9087945, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="14.4504235" data-long="75.9087945" class="text-white d-block" onclick="viewmap(14.4504235,75.9087945, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -3815,7 +3815,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221254 arrow pt-5" data-position="81">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="14.4607535" data-long="75.9049493" class="text-white d-block" onclick="viewmap(14.4607535,75.9049493, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="14.4607535" data-long="75.9049493" class="text-white d-block" onclick="viewmap(14.4607535,75.9049493, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -3862,7 +3862,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221285 arrow pt-5" data-position="82">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="14.4536306" data-long="75.9147157" class="text-white d-block" onclick="viewmap(14.4536306,75.9147157, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="14.4536306" data-long="75.9147157" class="text-white d-block" onclick="viewmap(14.4536306,75.9147157, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -3909,7 +3909,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221398 arrow pt-5" data-position="83">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="14.4482065" data-long="75.9232568" class="text-white d-block" onclick="viewmap(14.4482065,75.9232568, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="14.4482065" data-long="75.9232568" class="text-white d-block" onclick="viewmap(14.4482065,75.9232568, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -3956,7 +3956,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222458 arrow pt-5" data-position="84">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="14.4432912" data-long="75.9129568" class="text-white d-block" onclick="viewmap(14.4432912,75.9129568, this)">Aster pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="14.4432912" data-long="75.9129568" class="text-white d-block" onclick="viewmap(14.4432912,75.9129568, this)">DrCure pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -4003,7 +4003,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221424 arrow pt-5" data-position="85">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="14.4539956" data-long="75.9290265" class="text-white d-block" onclick="viewmap(14.4539956,75.9290265, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="14.4539956" data-long="75.9290265" class="text-white d-block" onclick="viewmap(14.4539956,75.9290265, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -4050,7 +4050,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222524 arrow pt-5" data-position="86">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="9.9934114" data-long="76.2812665" class="text-white d-block" onclick="viewmap(9.9934114,76.2812665, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="9.9934114" data-long="76.2812665" class="text-white d-block" onclick="viewmap(9.9934114,76.2812665, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -4097,7 +4097,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222529 arrow pt-5" data-position="87">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="9.9922207" data-long="76.2930625" class="text-white d-block" onclick="viewmap(9.9922207,76.2930625, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="9.9922207" data-long="76.2930625" class="text-white d-block" onclick="viewmap(9.9922207,76.2930625, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -4144,7 +4144,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222503 arrow pt-5" data-position="88">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="9.9937903" data-long="76.3262816" class="text-white d-block" onclick="viewmap(9.9937903,76.3262816, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="9.9937903" data-long="76.3262816" class="text-white d-block" onclick="viewmap(9.9937903,76.3262816, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -4191,7 +4191,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222538 arrow pt-5" data-position="89">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="10.0199178" data-long="76.2745612" class="text-white d-block" onclick="viewmap(10.0199178,76.2745612, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="10.0199178" data-long="76.2745612" class="text-white d-block" onclick="viewmap(10.0199178,76.2745612, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -4238,7 +4238,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222536 arrow pt-5" data-position="90">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="10.0174526" data-long="76.3689421" class="text-white d-block" onclick="viewmap(10.0174526,76.3689421, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="10.0174526" data-long="76.3689421" class="text-white d-block" onclick="viewmap(10.0174526,76.3689421, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -4285,7 +4285,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222531 arrow pt-5" data-position="91">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="10.2015754" data-long="76.3810922" class="text-white d-block" onclick="viewmap(10.2015754,76.3810922, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="10.2015754" data-long="76.3810922" class="text-white d-block" onclick="viewmap(10.2015754,76.3810922, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -4332,7 +4332,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222800 arrow pt-5" data-position="92">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="9.98653744020533" data-long="76.2813122711635" class="text-white d-block" onclick="viewmap(9.98653744020533,76.2813122711635, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="9.98653744020533" data-long="76.2813122711635" class="text-white d-block" onclick="viewmap(9.98653744020533,76.2813122711635, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -4379,7 +4379,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222508 arrow pt-5" data-position="93">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="10.0075501" data-long="76.3329804" class="text-white d-block" onclick="viewmap(10.0075501,76.3329804, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="10.0075501" data-long="76.3329804" class="text-white d-block" onclick="viewmap(10.0075501,76.3329804, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -4426,7 +4426,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222539 arrow pt-5" data-position="94">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="10.0046663" data-long="76.2879509" class="text-white d-block" onclick="viewmap(10.0046663,76.2879509, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="10.0046663" data-long="76.2879509" class="text-white d-block" onclick="viewmap(10.0046663,76.2879509, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -4473,7 +4473,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222528 arrow pt-5" data-position="95">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="10.0538691" data-long="76.3274039" class="text-white d-block" onclick="viewmap(10.0538691,76.3274039, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="10.0538691" data-long="76.3274039" class="text-white d-block" onclick="viewmap(10.0538691,76.3274039, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -4520,7 +4520,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222507 arrow pt-5" data-position="96">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="9.9440094" data-long="76.3734528" class="text-white d-block" onclick="viewmap(9.9440094,76.3734528, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="9.9440094" data-long="76.3734528" class="text-white d-block" onclick="viewmap(9.9440094,76.3734528, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -4567,7 +4567,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222505 arrow pt-5" data-position="97">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="9.9743398" data-long="76.3143944" class="text-white d-block" onclick="viewmap(9.9743398,76.3143944, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="9.9743398" data-long="76.3143944" class="text-white d-block" onclick="viewmap(9.9743398,76.3143944, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -4614,7 +4614,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222522 arrow pt-5" data-position="98">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="9.9793342" data-long="77.699296" class="text-white d-block" onclick="viewmap(9.9793342,77.699296, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="9.9793342" data-long="77.699296" class="text-white d-block" onclick="viewmap(9.9793342,77.699296, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -4661,7 +4661,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11233079 arrow pt-5" data-position="99">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="10.04373103" data-long="76.21810037" class="text-white d-block" onclick="viewmap(10.04373103,76.21810037, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="10.04373103" data-long="76.21810037" class="text-white d-block" onclick="viewmap(10.04373103,76.21810037, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -4708,7 +4708,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222515 arrow pt-5" data-position="100">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="10.0313876" data-long="76.3363125" class="text-white d-block" onclick="viewmap(10.0313876,76.3363125, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="10.0313876" data-long="76.3363125" class="text-white d-block" onclick="viewmap(10.0313876,76.3363125, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -4755,7 +4755,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222520 arrow pt-5" data-position="101">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="10.0336684" data-long="76.3267074" class="text-white d-block" onclick="viewmap(10.0336684,76.3267074, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="10.0336684" data-long="76.3267074" class="text-white d-block" onclick="viewmap(10.0336684,76.3267074, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -4802,7 +4802,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222506 arrow pt-5" data-position="102">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="10.1125115" data-long="76.3529659" class="text-white d-block" onclick="viewmap(10.1125115,76.3529659, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="10.1125115" data-long="76.3529659" class="text-white d-block" onclick="viewmap(10.1125115,76.3529659, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -4849,7 +4849,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222514 arrow pt-5" data-position="103">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="10.0393826" data-long="76.3157261" class="text-white d-block" onclick="viewmap(10.0393826,76.3157261, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="10.0393826" data-long="76.3157261" class="text-white d-block" onclick="viewmap(10.0393826,76.3157261, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -4896,7 +4896,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222527 arrow pt-5" data-position="104">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="9.9833806" data-long="76.3005423" class="text-white d-block" onclick="viewmap(9.9833806,76.3005423, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="9.9833806" data-long="76.3005423" class="text-white d-block" onclick="viewmap(9.9833806,76.3005423, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -4943,7 +4943,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222510 arrow pt-5" data-position="105">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="9.9569138" data-long="76.3021958" class="text-white d-block" onclick="viewmap(9.9569138,76.3021958, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="9.9569138" data-long="76.3021958" class="text-white d-block" onclick="viewmap(9.9569138,76.3021958, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -4990,7 +4990,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222798 arrow pt-5" data-position="106">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="10.0097505410751" data-long="77.4784068603787" class="text-white d-block" onclick="viewmap(10.0097505410751,77.4784068603787, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="10.0097505410751" data-long="77.4784068603787" class="text-white d-block" onclick="viewmap(10.0097505410751,77.4784068603787, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -5037,7 +5037,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222511 arrow pt-5" data-position="107">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="9.9682028" data-long="76.2849919" class="text-white d-block" onclick="viewmap(9.9682028,76.2849919, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="9.9682028" data-long="76.2849919" class="text-white d-block" onclick="viewmap(9.9682028,76.2849919, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -5084,7 +5084,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222537 arrow pt-5" data-position="108">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="9.9897854" data-long="76.3169302" class="text-white d-block" onclick="viewmap(9.9897854,76.3169302, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="9.9897854" data-long="76.3169302" class="text-white d-block" onclick="viewmap(9.9897854,76.3169302, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -5131,7 +5131,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222530 arrow pt-5" data-position="109">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="10.060905" data-long="76.299738" class="text-white d-block" onclick="viewmap(10.060905,76.299738, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="10.060905" data-long="76.299738" class="text-white d-block" onclick="viewmap(10.060905,76.299738, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -5178,7 +5178,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11233078 arrow pt-5" data-position="110">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="9.971371312" data-long="76.29953904" class="text-white d-block" onclick="viewmap(9.971371312,76.29953904, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="9.971371312" data-long="76.29953904" class="text-white d-block" onclick="viewmap(9.971371312,76.29953904, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -5225,7 +5225,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222521 arrow pt-5" data-position="111">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="9.9356086" data-long="76.2591022" class="text-white d-block" onclick="viewmap(9.9356086,76.2591022, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="9.9356086" data-long="76.2591022" class="text-white d-block" onclick="viewmap(9.9356086,76.2591022, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -5272,7 +5272,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221274 arrow pt-5" data-position="112">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="15.3721949" data-long="75.1345892" class="text-white d-block" onclick="viewmap(15.3721949,75.1345892, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="15.3721949" data-long="75.1345892" class="text-white d-block" onclick="viewmap(15.3721949,75.1345892, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -5319,7 +5319,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item1 arrow pt-5" data-position="113">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="15.36173063" data-long="75.11635027" class="text-white d-block" onclick="viewmap(15.36173063,75.11635027, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="15.36173063" data-long="75.11635027" class="text-white d-block" onclick="viewmap(15.36173063,75.11635027, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -5366,7 +5366,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item1 arrow pt-5" data-position="114">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="15.36341197" data-long="75.12712327" class="text-white d-block" onclick="viewmap(15.36341197,75.12712327, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="15.36341197" data-long="75.12712327" class="text-white d-block" onclick="viewmap(15.36341197,75.12712327, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -5413,7 +5413,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221259 arrow pt-5" data-position="115">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="15.459347" data-long="75.0202247" class="text-white d-block" onclick="viewmap(15.459347,75.0202247, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="15.459347" data-long="75.0202247" class="text-white d-block" onclick="viewmap(15.459347,75.0202247, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -5460,7 +5460,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222484 arrow pt-5" data-position="116">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.4801969" data-long="78.4171028" class="text-white d-block" onclick="viewmap(17.4801969,78.4171028, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.4801969" data-long="78.4171028" class="text-white d-block" onclick="viewmap(17.4801969,78.4171028, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -5507,7 +5507,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222474 arrow pt-5" data-position="117">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.4624801" data-long="78.3662339" class="text-white d-block" onclick="viewmap(17.4624801,78.3662339, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.4624801" data-long="78.3662339" class="text-white d-block" onclick="viewmap(17.4624801,78.3662339, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -5554,7 +5554,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11225260 arrow pt-5" data-position="118">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.4546338" data-long="78.4061519" class="text-white d-block" onclick="viewmap(17.4546338,78.4061519, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.4546338" data-long="78.4061519" class="text-white d-block" onclick="viewmap(17.4546338,78.4061519, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -5601,7 +5601,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222469 arrow pt-5" data-position="119">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.4339281" data-long="78.4332568" class="text-white d-block" onclick="viewmap(17.4339281,78.4332568, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.4339281" data-long="78.4332568" class="text-white d-block" onclick="viewmap(17.4339281,78.4332568, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -5648,7 +5648,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11233084 arrow pt-5" data-position="120">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.33242761" data-long="78.54921837" class="text-white d-block" onclick="viewmap(17.33242761,78.54921837, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.33242761" data-long="78.54921837" class="text-white d-block" onclick="viewmap(17.33242761,78.54921837, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -5695,7 +5695,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222471 arrow pt-5" data-position="121">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.5118716" data-long="78.3226539" class="text-white d-block" onclick="viewmap(17.5118716,78.3226539, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.5118716" data-long="78.3226539" class="text-white d-block" onclick="viewmap(17.5118716,78.3226539, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -5742,7 +5742,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11235708 arrow pt-5" data-position="122">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.5115315" data-long="78.3034891" class="text-white d-block" onclick="viewmap(17.5115315,78.3034891, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.5115315" data-long="78.3034891" class="text-white d-block" onclick="viewmap(17.5115315,78.3034891, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -5789,7 +5789,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item4 arrow pt-5" data-position="123">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.51496421" data-long="78.29649133" class="text-white d-block" onclick="viewmap(17.51496421,78.29649133, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.51496421" data-long="78.29649133" class="text-white d-block" onclick="viewmap(17.51496421,78.29649133, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -5836,7 +5836,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222482 arrow pt-5" data-position="124">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.5021419" data-long="78.3131501" class="text-white d-block" onclick="viewmap(17.5021419,78.3131501, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.5021419" data-long="78.3131501" class="text-white d-block" onclick="viewmap(17.5021419,78.3131501, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -5883,7 +5883,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222475 arrow pt-5" data-position="125">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.4140841" data-long="78.4526166" class="text-white d-block" onclick="viewmap(17.4140841,78.4526166, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.4140841" data-long="78.4526166" class="text-white d-block" onclick="viewmap(17.4140841,78.4526166, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -5930,7 +5930,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11233086 arrow pt-5" data-position="126">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.49246267" data-long="78.33107257" class="text-white d-block" onclick="viewmap(17.49246267,78.33107257, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.49246267" data-long="78.33107257" class="text-white d-block" onclick="viewmap(17.49246267,78.33107257, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -5977,7 +5977,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222483 arrow pt-5" data-position="127">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.5030252" data-long="78.4616959" class="text-white d-block" onclick="viewmap(17.5030252,78.4616959, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.5030252" data-long="78.4616959" class="text-white d-block" onclick="viewmap(17.5030252,78.4616959, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -6024,7 +6024,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222467 arrow pt-5" data-position="128">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.4995087" data-long="78.3950899" class="text-white d-block" onclick="viewmap(17.4995087,78.3950899, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.4995087" data-long="78.3950899" class="text-white d-block" onclick="viewmap(17.4995087,78.3950899, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -6071,7 +6071,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11225261 arrow pt-5" data-position="129">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.43817316" data-long="78.42762153" class="text-white d-block" onclick="viewmap(17.43817316,78.42762153, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.43817316" data-long="78.42762153" class="text-white d-block" onclick="viewmap(17.43817316,78.42762153, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -6118,7 +6118,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11225259 arrow pt-5" data-position="130">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.49778071" data-long="78.5461944" class="text-white d-block" onclick="viewmap(17.49778071,78.5461944, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.49778071" data-long="78.5461944" class="text-white d-block" onclick="viewmap(17.49778071,78.5461944, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -6165,7 +6165,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11233085 arrow pt-5" data-position="131">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.505062" data-long="78.5054204" class="text-white d-block" onclick="viewmap(17.505062,78.5054204, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.505062" data-long="78.5054204" class="text-white d-block" onclick="viewmap(17.505062,78.5054204, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -6212,7 +6212,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11235709 arrow pt-5" data-position="132">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.45087948" data-long="78.4435201" class="text-white d-block" onclick="viewmap(17.45087948,78.4435201, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.45087948" data-long="78.4435201" class="text-white d-block" onclick="viewmap(17.45087948,78.4435201, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -6259,7 +6259,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222487 arrow pt-5" data-position="133">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.3918142" data-long="78.531811" class="text-white d-block" onclick="viewmap(17.3918142,78.531811, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.3918142" data-long="78.531811" class="text-white d-block" onclick="viewmap(17.3918142,78.531811, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -6306,7 +6306,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11223448 arrow pt-5" data-position="134">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.34003895" data-long="78.55693367" class="text-white d-block" onclick="viewmap(17.34003895,78.55693367, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.34003895" data-long="78.55693367" class="text-white d-block" onclick="viewmap(17.34003895,78.55693367, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -6353,7 +6353,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222481 arrow pt-5" data-position="135">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.3731559" data-long="78.415001" class="text-white d-block" onclick="viewmap(17.3731559,78.415001, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.3731559" data-long="78.415001" class="text-white d-block" onclick="viewmap(17.3731559,78.415001, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -6400,7 +6400,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222485 arrow pt-5" data-position="136">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.3413189" data-long="78.5315546" class="text-white d-block" onclick="viewmap(17.3413189,78.5315546, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.3413189" data-long="78.5315546" class="text-white d-block" onclick="viewmap(17.3413189,78.5315546, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -6447,7 +6447,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222478 arrow pt-5" data-position="137">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.5258102" data-long="78.2985939" class="text-white d-block" onclick="viewmap(17.5258102,78.2985939, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.5258102" data-long="78.2985939" class="text-white d-block" onclick="viewmap(17.5258102,78.2985939, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -6494,7 +6494,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222848 arrow pt-5" data-position="138">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.3599286030517" data-long="78.4006339423271" class="text-white d-block" onclick="viewmap(17.3599286030517,78.4006339423271, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.3599286030517" data-long="78.4006339423271" class="text-white d-block" onclick="viewmap(17.3599286030517,78.4006339423271, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -6541,7 +6541,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222473 arrow pt-5" data-position="139">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.3329984" data-long="78.6031858" class="text-white d-block" onclick="viewmap(17.3329984,78.6031858, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.3329984" data-long="78.6031858" class="text-white d-block" onclick="viewmap(17.3329984,78.6031858, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -6588,7 +6588,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222476 arrow pt-5" data-position="140">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.4061499" data-long="78.5869021" class="text-white d-block" onclick="viewmap(17.4061499,78.5869021, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.4061499" data-long="78.5869021" class="text-white d-block" onclick="viewmap(17.4061499,78.5869021, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -6635,7 +6635,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11223449 arrow pt-5" data-position="141">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.4737487" data-long="78.5717631" class="text-white d-block" onclick="viewmap(17.4737487,78.5717631, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.4737487" data-long="78.5717631" class="text-white d-block" onclick="viewmap(17.4737487,78.5717631, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -6682,7 +6682,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222466 arrow pt-5" data-position="142">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.4746753" data-long="78.3858112" class="text-white d-block" onclick="viewmap(17.4746753,78.3858112, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.4746753" data-long="78.3858112" class="text-white d-block" onclick="viewmap(17.4746753,78.3858112, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -6729,7 +6729,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222486 arrow pt-5" data-position="143">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.3628352" data-long="78.5396124" class="text-white d-block" onclick="viewmap(17.3628352,78.5396124, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.3628352" data-long="78.5396124" class="text-white d-block" onclick="viewmap(17.3628352,78.5396124, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -6776,7 +6776,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222463 arrow pt-5" data-position="144">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.3312898" data-long="78.5657157" class="text-white d-block" onclick="viewmap(17.3312898,78.5657157, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.3312898" data-long="78.5657157" class="text-white d-block" onclick="viewmap(17.3312898,78.5657157, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -6870,7 +6870,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222490 arrow pt-5" data-position="146">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.516813" data-long="78.29992" class="text-white d-block" onclick="viewmap(17.516813,78.29992, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.516813" data-long="78.29992" class="text-white d-block" onclick="viewmap(17.516813,78.29992, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -6917,7 +6917,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11235707 arrow pt-5" data-position="147">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.48060024" data-long="78.57897318" class="text-white d-block" onclick="viewmap(17.48060024,78.57897318, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.48060024" data-long="78.57897318" class="text-white d-block" onclick="viewmap(17.48060024,78.57897318, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -6964,7 +6964,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222468 arrow pt-5" data-position="148">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.3367389" data-long="78.5629996" class="text-white d-block" onclick="viewmap(17.3367389,78.5629996, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.3367389" data-long="78.5629996" class="text-white d-block" onclick="viewmap(17.3367389,78.5629996, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -7011,7 +7011,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222477 arrow pt-5" data-position="149">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.5281191" data-long="78.3119205" class="text-white d-block" onclick="viewmap(17.5281191,78.3119205, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.5281191" data-long="78.3119205" class="text-white d-block" onclick="viewmap(17.5281191,78.3119205, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -7058,7 +7058,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222850 arrow pt-5" data-position="150">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.4619164089059" data-long="78.3525550711635" class="text-white d-block" onclick="viewmap(17.4619164089059,78.3525550711635, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.4619164089059" data-long="78.3525550711635" class="text-white d-block" onclick="viewmap(17.4619164089059,78.3525550711635, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -7105,7 +7105,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222472 arrow pt-5" data-position="151">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.3314701" data-long="78.4036791" class="text-white d-block" onclick="viewmap(17.3314701,78.4036791, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.3314701" data-long="78.4036791" class="text-white d-block" onclick="viewmap(17.3314701,78.4036791, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -7152,7 +7152,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222462 arrow pt-5" data-position="152">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.4780189" data-long="78.641403" class="text-white d-block" onclick="viewmap(17.4780189,78.641403, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.4780189" data-long="78.641403" class="text-white d-block" onclick="viewmap(17.4780189,78.641403, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -7199,7 +7199,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11238667 arrow pt-5" data-position="153">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="11.421717" data-long="75.936238" class="text-white d-block" onclick="viewmap(11.421717,75.936238, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="11.421717" data-long="75.936238" class="text-white d-block" onclick="viewmap(11.421717,75.936238, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -7246,7 +7246,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11222849 arrow pt-5" data-position="154">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.334789376178" data-long="78.3935879" class="text-white d-block" onclick="viewmap(17.334789376178,78.3935879, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.334789376178" data-long="78.3935879" class="text-white d-block" onclick="viewmap(17.334789376178,78.3935879, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -7293,7 +7293,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11238231 arrow pt-5" data-position="155">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.48177562" data-long="78.2985556" class="text-white d-block" onclick="viewmap(17.48177562,78.2985556, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.48177562" data-long="78.2985556" class="text-white d-block" onclick="viewmap(17.48177562,78.2985556, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -7340,7 +7340,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11238232 arrow pt-5" data-position="156">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.512471" data-long="78.4272606" class="text-white d-block" onclick="viewmap(17.512471,78.4272606, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.512471" data-long="78.4272606" class="text-white d-block" onclick="viewmap(17.512471,78.4272606, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -7387,7 +7387,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11238230 arrow pt-5" data-position="157">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.42589702" data-long="78.50690597" class="text-white d-block" onclick="viewmap(17.42589702,78.50690597, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.42589702" data-long="78.50690597" class="text-white d-block" onclick="viewmap(17.42589702,78.50690597, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -7434,7 +7434,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11223749 arrow pt-5" data-position="158">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.5317221860546" data-long="78.4446080711635" class="text-white d-block" onclick="viewmap(17.5317221860546,78.4446080711635, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.5317221860546" data-long="78.4446080711635" class="text-white d-block" onclick="viewmap(17.5317221860546,78.4446080711635, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -7481,7 +7481,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11223749 arrow pt-5" data-position="159">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.5317221860546" data-long="78.4446080711635" class="text-white d-block" onclick="viewmap(17.5317221860546,78.4446080711635, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="17.5317221860546" data-long="78.4446080711635" class="text-white d-block" onclick="viewmap(17.5317221860546,78.4446080711635, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -7528,7 +7528,7 @@
                 </div></div><div class="owl-item" style="width: 440px; margin-right: 25px;"><div class="item item11221409 arrow pt-5" data-position="160">
                             <div class="bg-blue1 rounded pl-3 pt-3">
                             <div class="map1">
-                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="13.9460405" data-long="75.5644557" class="text-white d-block" onclick="viewmap(13.9460405,75.5644557, this)">Aster Pharmacy</a></h4>
+                            <h4 class="text-white font-weight-bold pb-3"><a href="javascript:void(0);" data-lat="13.9460405" data-long="75.5644557" class="text-white d-block" onclick="viewmap(13.9460405,75.5644557, this)">DrCure Pharmacy</a></h4>
                         <div class="row">
                                 <div class="col-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30.506" height="27.505" viewBox="0 0 30.506 29.505">
@@ -7572,7 +7572,7 @@
 
                             </div>
                     </div>
-                </div></div></div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><img src="images/chevron_left_black_24dp.svg"></button><button type="button" role="presentation" class="owl-next"><img src="images/chevron_right_black_24dp.svg"></button></div><div class="owl-dots disabled"></div></div>
+                </div></div></div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><img src="{{ url('frontend/images/chevron_left_black_24dp.svg') }}"></button><button type="button" role="presentation" class="owl-next"><img src="{{url('frontend/images/chevron_right_black_24dp.svg')}}"></button></div><div class="owl-dots disabled"></div></div>
                     </div>
                 </div>
 
