@@ -1,8 +1,9 @@
 <div class="whatsbgmob">
-        <a href="https://api.whatsapp.com/send?phone=918317673857" class="float" target="_blank">
-            <h5 class="textgreen font-weight-bold mb-0">Chat with us <img src="{{ url('frontend/images/whatsapp help icon.svg') }}" class="img-fluid"></h5>
-        </a>
-    </div>
+    <a href="https://api.whatsapp.com/send?phone=918317673857" class="float" target="_blank">
+        <h5 class="textgreen font-weight-bold mb-0">Chat with us <img
+                src="{{ url('frontend/images/whatsapp help icon.svg') }}" class="img-fluid"></h5>
+    </a>
+</div>
 
 <footer class="bgfoot px-3 py-5 d-none">
     <div class="container">
@@ -33,9 +34,7 @@
                 <h6 class="font-weight-bold bluefoot mb-4"><a href="https://api.whatsapp.com/send?phone=918317673857"
                         target="_blank"><img style="filter: invert(1) !important;"
                             src="{{ url('frontend/images/email-new.png') }}" class="img-fluid"> </a><a
-                        href="cdn-cgi/l/email-protection.html#51322422253e3c342332302334113022253423213930233c3032287f383f"
-                        style="color:inherit; display: inline-block;"><span class="__cf_email__"
-                            data-cfemail="5635232522393b332435372433163725223324263e37243b37352f783f38">[email&#160;protected]</span></a>
+                        style="color:inherit; display: inline-block;"><span>care@drcurepharmacy.org</span></a>
                 </h6>
                 <h6 class="font-weight-bold bluefoot"><a href="https://api.whatsapp.com/send?phone=918317673857"
                         target="_blank"><img src="{{ url('frontend/images/whatsapp.png') }}" class="img-fluid"> </a><a
@@ -148,10 +147,7 @@
                         href="https://api.whatsapp.com/send?phone=918317673857" target="_blank"><img
                             style="filter: invert(1) !important;" src="{{ url('frontend/images/email-new.png') }}"
                             class="img-fluid">
-                    </a><a
-                        href="cdn-cgi/l/email-protection.html#7b180e080f14161e09181a091e3b1a080f1e090b131a09161a1802551215"
-                        style="color:inherit; display: inline-block;"><span class="__cf_email__"
-                            data-cfemail="50332523243f3d352233312235103123243522203831223d3133297e393e">[email&#160;protected]</span></a>
+                    </a><a style="color:inherit; display: inline-block;"><span>care@drcurepharmacy.org</span></a>
                 </h6>
                 <h6 class="font-weight-bold bluefoot footcall mtdesk"><a
                         href="https://api.whatsapp.com/send?phone=918317673857" target="_blank"><img
@@ -228,10 +224,8 @@
                                     <img src="{{ url('frontend/images/ionic-md-mail.svg') }}" alt="">
                                 </div>
                                 <div class="icon-call">
-                                    <a
-                                        href="cdn-cgi/l/email-protection.html#62011711160d0f071001031007220311160710120a03100f03011b4c0b0c">
-                                        <p class="site-email"><span class="__cf_email__"
-                                                data-cfemail="41223432352e2c243322203324012032352433312920332c2022386f282f">[email&#160;protected]</span>
+                                    <a>
+                                        <p><span>care@drcurepharmacy.org</span>
                                         </p>
                                     </a>
                                 </div>
@@ -785,8 +779,8 @@
     </div>
 </div>
 
-<script data-cfasync="false" src="{{ url('frontend/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js') }}">
-</script>
+<script data-cfasync="false"
+    src="{{ url('frontend/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js') }}"></script>
 <script src="{{ url('frontend/scripts/jquery.min.js') }}"></script>
 <script src="{{ url('frontend/scripts/popper.min.js') }}"></script>
 <script src="{{ url('frontend/scripts/bootstrap.min.js') }}"></script>
@@ -797,7 +791,7 @@
     integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw=="
     crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.js" integrity="sha512-gY25nC63ddE0LcLPhxUJGFxa2GoIyA5FLym4UJqHDEMHjp8RET6Zn/SHo1sltt3WuVtqfyxECP38/daUc/WVEA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script> --}}
-    <script type="text/javascript" src="{{ url('frontend/scripts/scripts.js') }}"></script>
+<script type="text/javascript" src="{{ url('frontend/scripts/scripts.js') }}"></script>
 <script src="{{ url('frontend/scripts/aos.js') }}"></script>
 <script src="https://huynhhuynh.github.io/owlcarousel2-filter/dist/owlcarousel2-filter.min.js"></script>
 <script type="text/javascript" src="{{ url('frontend/code.js') }}"></script>
