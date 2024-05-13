@@ -199,9 +199,8 @@
                                 <div class="icon-call">
                                     <!-- <p class="address">DrCure Pharmacy, Awfis, <br>Renaissance Centra, 27, 27/1, Kalinga Rao Road,<br> Mission Road Sampangi Ramanagar, Bengaluru, Karnataka 560027.<br>
                                     </p> -->
-                                    <p class="address"><b>DrCure Pharmacy (Alfaone Retail Pharmacies Private Limited)
-                                        </b><br>Anjuman Kay Arr Towers, Ground Floor<br> 28, PID. 77-1-28, P Kalinga Rao
-                                        Road,<br> Bengaluru, Karnataka 560027.<br>
+                                    <p class="address"><b>DrCure Pharmacy
+                                        </b><br>Road No-2, Dhanalakshmi center,<br> KPHB Colony,<br> Hyderabad, Telangana 500045.<br>
                                     </p>
                                 </div>
                             </div>
