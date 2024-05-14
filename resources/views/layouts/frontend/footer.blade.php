@@ -34,7 +34,7 @@
                 <h6 class="font-weight-bold bluefoot mb-4"><a href="https://api.whatsapp.com/send?phone=918317673857"
                         target="_blank"><img style="filter: invert(1) !important;"
                             src="{{ url('frontend/images/email-new.png') }}" class="img-fluid"> </a><a
-                        style="color:inherit; display: inline-block;"><span>care@drcurepharmacy.org</span></a>
+                        style="color:inherit; display: inline-block;"><span>customercare@drcurepharmacy.org</span></a>
                 </h6>
                 <h6 class="font-weight-bold bluefoot"><a href="https://api.whatsapp.com/send?phone=918317673857"
                         target="_blank"><img src="{{ url('frontend/images/whatsapp.png') }}" class="img-fluid"> </a><a
@@ -147,7 +147,8 @@
                         href="https://api.whatsapp.com/send?phone=918317673857" target="_blank"><img
                             style="filter: invert(1) !important;" src="{{ url('frontend/images/email-new.png') }}"
                             class="img-fluid">
-                    </a><a style="color:inherit; display: inline-block;"><span>care@drcurepharmacy.org</span></a>
+                    </a><a
+                        style="color:inherit; display: inline-block;"><span>customercare@drcurepharmacy.org</span></a>
                 </h6>
                 <h6 class="font-weight-bold bluefoot footcall mtdesk"><a
                         href="https://api.whatsapp.com/send?phone=918317673857" target="_blank"><img
@@ -200,7 +201,8 @@
                                     <!-- <p class="address">DrCure Pharmacy, Awfis, <br>Renaissance Centra, 27, 27/1, Kalinga Rao Road,<br> Mission Road Sampangi Ramanagar, Bengaluru, Karnataka 560027.<br>
                                     </p> -->
                                     <p class="address"><b>DrCure Pharmacy
-                                        </b><br>Road No-2, Dhanalakshmi center,<br> KPHB Colony,<br> Hyderabad, Telangana 500045.<br>
+                                        </b><br>Road No-2, Dhanalakshmi center,<br> KPHB Colony,<br> Hyderabad,
+                                        Telangana 500045.<br>
                                     </p>
                                 </div>
                             </div>
@@ -224,7 +226,7 @@
                                 </div>
                                 <div class="icon-call">
                                     <a>
-                                        <p><span>care@drcurepharmacy.org</span>
+                                        <p><span>customercare@drcurepharmacy.org</span>
                                         </p>
                                     </a>
                                 </div>
