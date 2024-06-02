@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\ManageContent;
 use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
 
@@ -18,7 +19,8 @@ Route::middleware('auth')->group(function () {
     Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
 });
 Route::middleware('auth')->group(function () {
-    Route::get('/slider-manage', [ProfileController::class, 'edit'])->name('profile.edit');
+    Route::get('/slider-manage', [ManageContent::class, 'sliderManage'])->name('slider-manage');
+    Route::get('/store-manage', [ManageContent::class, 'storeManage'])->name('store-manage');
 });
 
 
