@@ -6,8 +6,14 @@ use Illuminate\Http\Request;
 
 class ManageContent extends Controller
 {
-    public function index(){
+    public function sliderManage()
+    {
 
-        return view();
+        return view('admin.slider-manage.index');
+    }
+    public function storeManage()
+    {
+
+        return view('admin.store-manage.index');
     }
 }
