@@ -1,36 +1,54 @@
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="csrf-token" content="{{ csrf_token() }}">
 
-        <title>{{ config('app.name', 'Laravel') }}</title>
+<head>
+    <meta charset="utf-8">
+    <meta name="csrf-token" content="{{ csrf_token() }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta content="Premium Multipurpose Admin & Dashboard Template" name="description" />
+    <meta content="" name="author" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-        <!-- Fonts -->
-        <link rel="preconnect" href="https://fonts.bunny.net">
-        <link href="https://fonts.bunny.net/css?family=figtree:400,500,600&display=swap" rel="stylesheet" />
+    <title>{{ config('app.name') }} - @yield('title')</title>
 
-        <!-- Scripts -->
-        @vite(['resources/css/app.css', 'resources/js/app.js'])
-    </head>
-    <body class="font-sans antialiased">
-        <div class="min-h-screen bg-gray-100">
-            @include('layouts.navigation')
+    <!-- App favicon -->
+    <link rel="shortcut icon" href="{{ url('backend/assets/images/favicon.ico') }}">
 
-            <!-- Page Heading -->
-            @if (isset($header))
-                <header class="bg-white shadow">
-                    <div class="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8">
-                        {{ $header }}
-                    </div>
-                </header>
-            @endif
+    <!-- App css -->
+    <link href="{{ url('backend/assets/css/bootstrap.min.css') }}" rel="stylesheet" type="text/css" />
+    <link href="{{ url('backend/assets/css/icons.min.css') }}" rel="stylesheet" type="text/css" />
+    <link href="{{ url('backend/assets/css/app.min.css') }}" rel="stylesheet" type="text/css" />
 
-            <!-- Page Content -->
-            <main>
-                {{ $slot }}
-            </main>
-        </div>
-    </body>
+    <!-- Scripts -->
+    @vite(['resources/css/app.css', 'resources/js/app.js'])
+</head>
+
+<body id="body">
+    @include('layouts.navigation')
+    <!-- Page Content -->
+    @yield('content')
+    <!-- Footer Start -->
+    <footer class="footer text-center text-sm-start">
+        &copy;
+        <script>
+            document.write(new Date().getFullYear())
+        </script> {{ config('app.name') }} <span
+            class="text-muted d-none d-sm-inline-block float-end">Crafted with <i class="mdi mdi-heart text-danger"></i>
+            by Narendra Khandwe</span>
+    </footer>
+    <!-- end Footer -->
+    <!--end footer-->
+
+    <!-- Javascript  -->
+    <!-- vendor js -->
+
+    <script src="{{ url('backend/assets/libs/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
+    <script src="{{ url('backend/assets/libs/simplebar/simplebar.min.js') }}"></script>
+    <script src="{{ url('backend/assets/libs/feather-icons/feather.min.js') }}"></script>
+    <script src="{{ url('backend/assets/libs/apexcharts/apexcharts.min.js') }}"></script>
+    <script src="{{ url('backend/assets/js/pages/analytics-index.init.js') }}"></script>
+    <!-- App js -->
+    <script src="{{ url('backend/assets/js/app.js') }}"></script>
+</body>
+
 </html>
