@@ -1,100 +1,174 @@
-<nav x-data="{ open: false }" class="bg-white border-b border-gray-100">
-    <!-- Primary Navigation Menu -->
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="flex justify-between h-16">
-            <div class="flex">
-                <!-- Logo -->
-                <div class="shrink-0 flex items-center">
-                    <a href="{{ route('dashboard') }}">
-                        <x-application-logo class="block h-9 w-auto fill-current text-gray-800" />
-                    </a>
-                </div>
+   <!-- leftbar-tab-menu -->
+   <div class="leftbar-tab-menu">
+       <div class="main-icon-menu">
+           <a href="index.html" class="logo logo-metrica d-block text-center">
+               <span>
+                   <img src="{{ url('frontend/images/Aster-Pharmacy-Logo.png') }}" alt="logo-small"
+                       class="logo-sm bg-white">
+               </span>
+           </a>
+           <div class="main-icon-menu-body">
+               <div class="position-reletive h-100" data-simplebar style="overflow-x: hidden;">
+                   <ul class="nav nav-tabs" role="tablist" id="tab-menu">
+                       <li class="nav-item" data-bs-toggle="tooltip" data-bs-placement="right" title="Dashboard"
+                           data-bs-trigger="hover">
+                           <a href="#MetricaDashboard" id="dashboard-tab" class="nav-link">
+                               <i class="ti ti-smart-home menu-icon"></i>
+                           </a><!--end nav-link-->
+                       </li><!--end nav-item-->
+                       {{-- <li class="nav-item" data-bs-toggle="tooltip" data-bs-placement="right" title="Apps"
+                           data-bs-trigger="hover">
+                           <a href="#MetricaApps" id="apps-tab" class="nav-link">
+                               <i class="ti ti-apps menu-icon"></i>
+                           </a><!--end nav-link-->
+                       </li><!--end nav-item--> --}}
 
-                <!-- Navigation Links -->
-                <div class="hidden space-x-8 sm:-my-px sm:ms-10 sm:flex">
-                    <x-nav-link :href="route('dashboard')" :active="request()->routeIs('dashboard')">
-                        {{ __('Dashboard') }}
-                    </x-nav-link>
-                </div>
-            </div>
+                       {{-- <li class="nav-item" data-bs-toggle="tooltip" data-bs-placement="right" title="Uikit"
+                           data-bs-trigger="hover">
+                           <a href="#MetricaUikit" id="uikit-tab" class="nav-link">
+                               <i class="ti ti-planet menu-icon"></i>
+                           </a><!--end nav-link-->
+                       </li><!--end nav-item--> --}}
 
-            <!-- Settings Dropdown -->
-            <div class="hidden sm:flex sm:items-center sm:ms-6">
-                <x-dropdown align="right" width="48">
-                    <x-slot name="trigger">
-                        <button class="inline-flex items-center px-3 py-2 border border-transparent text-sm leading-4 font-medium rounded-md text-gray-500 bg-white hover:text-gray-700 focus:outline-none transition ease-in-out duration-150">
-                            <div>{{ Auth::user()->name }}</div>
+                       {{-- <li class="nav-item" data-bs-toggle="tooltip" data-bs-placement="right" title="Pages"
+                           data-bs-trigger="hover">
+                           <a href="#MetricaPages" id="pages-tab" class="nav-link">
+                               <i class="ti ti-files menu-icon"></i>
+                           </a><!--end nav-link-->
+                       </li><!--end nav-item--> --}}
+                       {{--
+                       <li class="nav-item" data-bs-toggle="tooltip" data-bs-placement="right" title="Authentication"
+                           data-bs-trigger="hover">
+                           <a href="#MetricaAuthentication" id="authentication-tab" class="nav-link">
+                               <i class="ti ti-shield-lock menu-icon"></i>
+                           </a><!--end nav-link--> --}}
+                       {{-- </li><!--end nav-item--> --}}
+                   </ul><!--end nav-->
+               </div><!--end /div-->
+           </div><!--end main-icon-menu-body-->
+           <div class="pro-metrica-end">
+               <a href="" class="profile">
+                   <img src="{{ url('backend/assets/images/users/user-4.jpg') }}" alt="profile-user"
+                       class="rounded-circle thumb-sm">
+               </a>
+           </div><!--end pro-metrica-end-->
+       </div>
+       <!--end main-icon-menu-->
 
-                            <div class="ms-1">
-                                <svg class="fill-current h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
-                                    <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd" />
-                                </svg>
-                            </div>
-                        </button>
-                    </x-slot>
+       <div class="main-menu-inner">
+           <div class="topbar-left">
+               <a href="/dashboard" class="logo">
+                   <span>
+                       <img src="{{ url('frontend/images/Aster-Pharmacy-Logo.png') }}" width="100" alt="logo-large"
+                           class="logo-dark">
+                       <img src="{{ url('frontend/images/Aster-Pharmacy-Logo.png') }}" width="100" alt="logo-large"
+                           class="logo-light">
+                   </span>
+               </a>
+               <!--end logo-->
+               <div class="menu-body navbar-vertical tab-content" data-simplebar>
+                   <div id="MetricaDashboard"
+                       class="main-icon-menu-pane tab-pane {{ Request::is('dashboard') ? 'active' : '' }}"
+                       role="tabpanel" aria-labelledby="dashboard-tab">
+                       <div class="title-box ">
+                           <h6 class="menu-title">Dashboard</h6>
+                       </div>
 
-                    <x-slot name="content">
-                        <x-dropdown-link :href="route('profile.edit')">
-                            {{ __('Profile') }}
-                        </x-dropdown-link>
+                       <ul class="nav flex-column mt-5">
+                           <li class="nav-item">
+                               <a class="nav-link  {{ Request::is('dashboard') ? 'active' : '' }}"
+                                   href="{{ url('dashboard') }}">Dashboard</a>
+                           </li>
+                           <li class="nav-item">
+                               <a class="nav-link {{ Request::is('slider-manage') ? 'active' : '' }}"
+                                   href="{{ url('slider-manage') }}">Slider Manage</a>
+                           </li>
+                           <li class="nav-item">
+                               <a class="nav-link {{ Request::is('store-manage') ? 'active' : '' }}"
+                                   href="{{ url('store-manage') }}">Store Manage</a>
+                           </li>
+                           <li class="nav-item">
+                               <a class="nav-link {{ Request::is('hero-banner') ? 'active' : '' }}"
+                                   href="{{ url('hero-banner') }}">Hero Banner</a>
+                           </li>
+                           <li class="nav-item">
+                               <a class="nav-link {{ Request::is('hero-banner-picture') ? 'active' : '' }}"
+                                   href="{{ url('hero-banner-picture') }}">Hero Banner Picture</a>
+                           </li>
+                           <li class="nav-item">
+                               <a class="nav-link {{ Request::is('product') ? 'active' : '' }}"
+                                   href="{{ url('product') }}">Product Manage</a>
+                           </li>
+                           <li class="nav-item">
+                               <a class="nav-link {{ Request::is('promise') ? 'active' : '' }}"
+                                   href="{{ url('promise') }}">We Promise</a>
+                           </li>
+                           <li class="nav-item">
+                               <a class="nav-link {{ Request::is('careers') ? 'active' : '' }}"
+                                   href="{{ url('careers') }}">Careers</a>
+                           </li>
+                           <li class="nav-item">
+                               <a class="nav-link {{ Request::is('feedback') ? 'active' : '' }}"
+                                   href="{{ url('feedback') }}">Feedback</a>
+                           </li>
+                           <!--end nav-item-->
+                       </ul>
+                       <!--end nav-->
+                   </div>
+                   <!-- end Dashboards -->
+               </div>
+               <!--end menu-body-->
+           </div><!-- end main-menu-inner-->
+       </div>
+       <!-- end leftbar-tab-menu-->
 
-                        <!-- Authentication -->
-                        <form method="POST" action="{{ route('logout') }}">
-                            @csrf
+       <!-- Top Bar Start -->
+       <div class="topbar">
+           <!-- Navbar -->
+           <nav class="navbar-custom" id="navbar-custom">
+               <ul class="list-unstyled topbar-nav float-end mb-0">
+                   <li class="dropdown">
+                       <a class="nav-link dropdown-toggle nav-user" data-bs-toggle="dropdown" href="#"
+                           role="button" aria-haspopup="false" aria-expanded="false">
+                           <div class="d-flex align-items-center">
+                               <img src="{{ url('backend/assets/images/users/user-4.jpg') }}" alt="profile-user"
+                                   class="rounded-circle me-2 thumb-sm" />
+                               <div>
+                                   <small class="d-none d-md-block font-11">Admin</small>
+                                   <span class="d-none d-md-block fw-semibold font-12">Maria Gibson <i
+                                           class="mdi mdi-chevron-down"></i></span>
+                               </div>
+                           </div>
+                       </a>
+                       <div class="dropdown-menu dropdown-menu-end">
+                           <a class="dropdown-item" href="#"><i
+                                   class="ti ti-user font-16 me-1 align-text-bottom"></i> Profile</a>
+                           <a class="dropdown-item" href="#"><i
+                                   class="ti ti-settings font-16 me-1 align-text-bottom"></i> Settings</a>
+                           <div class="dropdown-divider mb-0"></div>
+                           <a class="dropdown-item" href="{{ route('logout') }}"><i
+                                   class="ti ti-power font-16 me-1 align-text-bottom"></i> Logout</a>
+                       </div>
+                   </li><!--end topbar-profile-->
+               </ul><!--end topbar-nav-->
 
-                            <x-dropdown-link :href="route('logout')"
-                                    onclick="event.preventDefault();
-                                                this.closest('form').submit();">
-                                {{ __('Log Out') }}
-                            </x-dropdown-link>
-                        </form>
-                    </x-slot>
-                </x-dropdown>
-            </div>
+               <ul class="list-unstyled topbar-nav mb-0">
+                   <li>
+                       <button class="nav-link button-menu-mobile nav-icon" id="togglemenu">
+                           <i class="ti ti-menu-2"></i>
+                       </button>
+                   </li>
 
-            <!-- Hamburger -->
-            <div class="-me-2 flex items-center sm:hidden">
-                <button @click="open = ! open" class="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:text-gray-500 transition duration-150 ease-in-out">
-                    <svg class="h-6 w-6" stroke="currentColor" fill="none" viewBox="0 0 24 24">
-                        <path :class="{'hidden': open, 'inline-flex': ! open }" class="inline-flex" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
-                        <path :class="{'hidden': ! open, 'inline-flex': open }" class="hidden" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
-                    </svg>
-                </button>
-            </div>
-        </div>
-    </div>
-
-    <!-- Responsive Navigation Menu -->
-    <div :class="{'block': open, 'hidden': ! open}" class="hidden sm:hidden">
-        <div class="pt-2 pb-3 space-y-1">
-            <x-responsive-nav-link :href="route('dashboard')" :active="request()->routeIs('dashboard')">
-                {{ __('Dashboard') }}
-            </x-responsive-nav-link>
-        </div>
-
-        <!-- Responsive Settings Options -->
-        <div class="pt-4 pb-1 border-t border-gray-200">
-            <div class="px-4">
-                <div class="font-medium text-base text-gray-800">{{ Auth::user()->name }}</div>
-                <div class="font-medium text-sm text-gray-500">{{ Auth::user()->email }}</div>
-            </div>
-
-            <div class="mt-3 space-y-1">
-                <x-responsive-nav-link :href="route('profile.edit')">
-                    {{ __('Profile') }}
-                </x-responsive-nav-link>
-
-                <!-- Authentication -->
-                <form method="POST" action="{{ route('logout') }}">
-                    @csrf
-
-                    <x-responsive-nav-link :href="route('logout')"
-                            onclick="event.preventDefault();
-                                        this.closest('form').submit();">
-                        {{ __('Log Out') }}
-                    </x-responsive-nav-link>
-                </form>
-            </div>
-        </div>
-    </div>
-</nav>
+               </ul>
+           </nav>
+           <!-- end navbar-->
+       </div>
+       <!-- Top Bar End -->
+       <style>
+           .nav-link.active {
+               background-color: #D1E7DD;
+               color: #0F5132;
+               border-radius: 50px!important;
+           }
+       </style>
+       <div class="page-wrapper">
