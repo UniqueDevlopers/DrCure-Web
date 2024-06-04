@@ -22,7 +22,8 @@
                         <h1 class="fs-3">Manage Stores/Branches Here.</h1>
 
                         <hr class="mb-3 mt-3 h-2 text-danger">
-                        <form action="" method="post" enctype="multipart/form-data">
+                        <form action="{{ route('store-post') }}" method="post" enctype="multipart/form-data">
+                            @csrf
                             <div class="row">
                                 <div class="col-4">
                                     <div class="form-group mb-2">
@@ -68,7 +69,43 @@
                     </div><!--end col-->
                 </div>
                 <!-- end page title end breadcrumb -->
-
+                <h1 class="fs-1 mt-4 mb-3">List Sliders</h1>
+                <hr>
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th scope="col">SL</th>
+                            <th scope="col">Name</th>
+                            <th scope="col">Address</th>
+                            <th scope="col">Phone Number</th>
+                            <th scope="col">Long/Lati</th>
+                            <th scope="col">Status</th>
+                            <th scope="col">Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach ($branch as $key => $value)
+                            <tr>
+                                <th scope="row">{{ $key + 1 }}</th>
+                                <td>{{ $value->store_name }}
+                                </td>
+                                <td>{{ $value->address }}</td>
+                                <td>{{ $value->phone_number }}</td>
+                                <td>{{ $value->longitude }}/{{ $value->latitude }}</td>
+                                <td>
+                                    @if ($value->isActive == 1)
+                                        <button class="btn btn-success brn-sm">Active</button>
+                                    @else
+                                        <button class="btn btn-danger brn-sm">InActive</button>
+                                    @endif
+                                </td>
+                                <td>
+                                    <button class="btn btn-danger"> <i class="fa fa-trash"></i></button>
+                                </td>
+                            </tr>
+                        @endforeach
+                    </tbody>
+                </table>
             </div><!-- container -->
         </div><!-- container -->
     @endsection
