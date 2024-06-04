@@ -87,10 +87,10 @@
                                <a class="nav-link {{ Request::is('store-manage') ? 'active' : '' }}"
                                    href="{{ url('store-manage') }}">Store Manage</a>
                            </li>
-                           <li class="nav-item">
+                           {{-- <li class="nav-item">
                                <a class="nav-link {{ Request::is('hero-banner') ? 'active' : '' }}"
                                    href="{{ url('hero-banner') }}">Hero Banner</a>
-                           </li>
+                           </li> --}}
                            <li class="nav-item">
                                <a class="nav-link {{ Request::is('hero-banner-picture') ? 'active' : '' }}"
                                    href="{{ url('hero-banner-picture') }}">Hero Banner Picture</a>
