@@ -20,9 +20,11 @@ Route::middleware('auth')->group(function () {
 });
 Route::middleware('auth')->group(function () {
     Route::get('/slider-manage', [ManageContent::class, 'sliderManage'])->name('slider-manage');
+    Route::post('/slider-post', [ManageContent::class, 'sliderPost'])->name('slider-post');
     Route::get('/store-manage', [ManageContent::class, 'storeManage'])->name('store-manage');
+    Route::post('/store-post', [ManageContent::class, 'storePost'])->name('store-post');
 });
 
 
 
-require __DIR__.'/auth.php';
+require __DIR__ . '/auth.php';
