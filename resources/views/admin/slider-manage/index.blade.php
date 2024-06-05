@@ -61,18 +61,18 @@
                             @foreach ($slider as $key => $value)
                                 <tr>
                                     <th scope="row">{{ $key + 1 }}</th>
-                                    <td><img src="{{ URL::to($value->image) }}" height="100px" width="100px"
-                                            alt=""></td>
+                                    <td><img src="{{ URL::to($value->image) }}" height="100px" width="100px" alt=""
+                                            class="rounded"></td>
                                     <td>{{ $value->button_link }}</td>
                                     <td>
                                         @if ($value->isActive == 1)
-                                            <button class="btn btn-success brn-sm">Active</button>
+                                            <button class="btn btn-success btn-sm">Active</button>
                                         @else
-                                            <button class="btn btn-danger brn-sm">InActive</button>
+                                            <button class="btn btn-danger btn-sm">InActive</button>
                                         @endif
                                     </td>
                                     <td>
-                                        <button class="btn btn-danger"> <i class="fa fa-trash"></i></button>
+                                        <button class="btn btn-danger btn-sm"> <i class="fa fa-trash"></i></button>
                                     </td>
                                 </tr>
                             @endforeach

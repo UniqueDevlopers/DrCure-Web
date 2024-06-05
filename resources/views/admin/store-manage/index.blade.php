@@ -94,13 +94,13 @@
                                 <td>{{ $value->longitude }}/{{ $value->latitude }}</td>
                                 <td>
                                     @if ($value->isActive == 1)
-                                        <button class="btn btn-success brn-sm">Active</button>
+                                        <button class="btn btn-success btn-sm">Active</button>
                                     @else
-                                        <button class="btn btn-danger brn-sm">InActive</button>
+                                        <button class="btn btn-danger btn-sm">InActive</button>
                                     @endif
                                 </td>
                                 <td>
-                                    <button class="btn btn-danger"> <i class="fa fa-trash"></i></button>
+                                    <button class="btn btn-danger btn-sm"> <i class="fa fa-trash"></i></button>
                                 </td>
                             </tr>
                         @endforeach
