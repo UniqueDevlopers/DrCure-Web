@@ -23,6 +23,8 @@ Route::middleware('auth')->group(function () {
     Route::post('/slider-post', [ManageContent::class, 'sliderPost'])->name('slider-post');
     Route::get('/store-manage', [ManageContent::class, 'storeManage'])->name('store-manage');
     Route::post('/store-post', [ManageContent::class, 'storePost'])->name('store-post');
+    Route::get('/hero-banner-picture', [ManageContent::class, 'heroManage'])->name('hero-manage');
+    Route::post('/hero-post', [ManageContent::class, 'heroPost'])->name('hero-post');
 });
 
 
