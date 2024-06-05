@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\HeroSection;
 use App\Models\Slider;
 use App\Models\StoreBranch;
 use Illuminate\Http\Request;
@@ -50,5 +51,34 @@ class ManageContent extends Controller
         } else {
             return redirect()->back();
         }
+    }
+
+    public function heroManage()
+    {
+        $hero = HeroSection::all();
+        return view('admin.hero-manage.index', compact('hero'));
+    }
+
+    public function heroPost(Request $request)
+    {
+        $hero = HeroSection::first();
+
+        if (!$hero) {
+            $hero = new HeroSection();
+        }
+
+        $hero->heding_top = $request->heading_top;
+        $hero->description = $request->description;
+        if ($request->hasFile('image')) {
+            $image = time() . '_hero' . '.' . $request->image->extension();
+            $request->image->move(public_path('uploads/hero'), $image);
+            $hero->image = 'uploads/hero/' . $image;
+        }
+        $hero->heading_bottom = $request->heading_bottom;
+        $hero->bg_color = $request->bg_color;
+
+        $hero->save();
+
+        return back();
     }
 }
