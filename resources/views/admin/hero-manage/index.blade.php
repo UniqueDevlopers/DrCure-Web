@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Dashboard')
+@section('title', 'Hero Section Manage')
 @section('content')
     <div class="page-content-tab">
         <div class="container-fluid">
