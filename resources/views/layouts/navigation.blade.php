@@ -96,8 +96,8 @@
                                    href="{{ url('hero-banner-picture') }}">Hero Banner Picture</a>
                            </li>
                            <li class="nav-item">
-                               <a class="nav-link {{ Request::is('product') ? 'active' : '' }}"
-                                   href="{{ url('product') }}">Product Manage</a>
+                               <a class="nav-link {{ Request::is('product-manage') ? 'active' : '' }}"
+                                   href="{{ url('product-manage') }}">Product Manage</a>
                            </li>
                            <li class="nav-item">
                                <a class="nav-link {{ Request::is('promise') ? 'active' : '' }}"
@@ -168,7 +168,7 @@
            .nav-link.active {
                background-color: #D1E7DD;
                color: #0F5132;
-               border-radius: 50px!important;
+               border-radius: 50px !important;
            }
        </style>
        <div class="page-wrapper">
