@@ -4,6 +4,8 @@ namespace App\Http\Controllers;
 
 use App\Models\HeroSection;
 use App\Models\ProductSection;
+use App\Models\PromiseSection;
+use App\Models\Settings;
 use App\Models\Slider;
 use App\Models\StoreBranch;
 use Illuminate\Http\Request;
@@ -101,5 +103,61 @@ class ManageContent extends Controller
         }
         $product->save();
         return back();
+    }
+
+    public function wePromise()
+    {
+        $promise = PromiseSection::all();
+        return view('admin.we-promise.index', compact('promise'));
+    }
+
+    public function promisePost(Request $request)
+    {
+        $promise = new PromiseSection();
+        $promise->title = $request->title;
+        $promise->text = $request->text;
+        if ($request->hasFile('image')) {
+            $image = time() . '_promise' . '.' . $request->image->extension();
+            $request->image->move(public_path('uploads/promise'), $image);
+            $promise->image = 'uploads/promise/' . $image;
+        }
+        $promise->save();
+        return back();
+    }
+
+    public function settings(Request $request)
+    {
+        $settings = Settings::first();
+        return view('admin.settings.index', compact('settings'));
+    }
+    public function settingsPost(Request $request)
+    {
+        $settings = Settings::first();
+        if (!$settings) {
+            $settings = new Settings();
+        }
+
+        $settings->name = $request->name;
+        $settings->address = $request->address;
+        $settings->mobile = $request->mobile;
+        $settings->whatsapp_number = $request->whatsapp_number;
+        $settings->email = $request->email;
+        $settings->facebook_link = $request->facebook_link;
+        $settings->instagram_link = $request->instagram_link;
+        $settings->youtube_link = $request->youtube_link;
+        $settings->twitter_link = $request->twitter_link;
+        if ($request->hasFile('top_logo')) {
+            $image = time() . '_top_logo' . '.' . $request->top_logo->extension();
+            $request->top_logo->move(public_path('uploads/top_logo'), $image);
+            $settings->top_logo = 'uploads/top_logo/' . $image;
+        }
+        if ($request->hasFile('bottom_logo')) {
+            $image = time() . '_bottom_logo' . '.' . $request->bottom_logo->extension();
+            $request->bottom_logo->move(public_path('uploads/bottom_logo'), $image);
+            $settings->bottom_logo = 'uploads/bottom_logo/' . $image;
+        }
+        $settings->save();
+
+        return view('admin.settings.index', compact('settings'));
     }
 }
