@@ -27,6 +27,10 @@ Route::middleware('auth')->group(function () {
     Route::post('/hero-post', [ManageContent::class, 'heroPost'])->name('hero-post');
     Route::get('/product-manage', [ManageContent::class, 'product'])->name('product-manage');
     Route::post('/product-post', [ManageContent::class, 'productPost'])->name('product-post');
+    Route::get('/promise-manage', [ManageContent::class, 'wePromise'])->name('promise-manage');
+    Route::post('/promise-post', [ManageContent::class, 'promisePost'])->name('promise-post');
+    Route::get('/settings', [ManageContent::class, 'settings'])->name('settings');
+    Route::post('/settings-post', [ManageContent::class, 'settingsPost'])->name('settings-post');
 });
 
 
