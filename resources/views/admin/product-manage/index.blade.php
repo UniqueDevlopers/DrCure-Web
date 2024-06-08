@@ -13,16 +13,16 @@
                                 <li class="breadcrumb-item"><a href="#">DrCure</a>
                                 </li>
                                 <!--end nav-item-->
-                                <li class="breadcrumb-item active"><a href="#">Hero Section Manage</a>
+                                <li class="breadcrumb-item active"><a href="#">Product Manage</a>
                                 </li>
                                 <!--end nav-item-->
                             </ol>
                         </div>
-                        <h4 class="page-title">Store Manage</h4>
+                        <h4 class="page-title">Product Manage</h4>
                     </div>
                     <!--end page-title-box-->
                     <div class="row">
-                        <h1 class="fs-3">Manage Stores/Branches Here.</h1>
+                        <h1 class="fs-3">Manage Product Manage Here.</h1>
 
                         <hr class="mb-3 mt-3 h-2 text-danger">
                         <form action="{{ route('product-post') }}" method="post" enctype="multipart/form-data">
