@@ -100,8 +100,8 @@
                                    href="{{ url('product-manage') }}">Product Manage</a>
                            </li>
                            <li class="nav-item">
-                               <a class="nav-link {{ Request::is('promise') ? 'active' : '' }}"
-                                   href="{{ url('promise') }}">We Promise</a>
+                               <a class="nav-link {{ Request::is('promise-manage') ? 'active' : '' }}"
+                                   href="{{ url('promise-manage') }}">We Promise</a>
                            </li>
                            <li class="nav-item">
                                <a class="nav-link {{ Request::is('careers') ? 'active' : '' }}"
@@ -110,6 +110,10 @@
                            <li class="nav-item">
                                <a class="nav-link {{ Request::is('feedback') ? 'active' : '' }}"
                                    href="{{ url('feedback') }}">Feedback</a>
+                           </li>
+                           <li class="nav-item">
+                               <a class="nav-link {{ Request::is('settings') ? 'active' : '' }}"
+                                   href="{{ url('settings') }}">Web Settings</a>
                            </li>
                            <!--end nav-item-->
                        </ul>
