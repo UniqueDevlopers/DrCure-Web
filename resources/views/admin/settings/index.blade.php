@@ -13,19 +13,19 @@
                                 <li class="breadcrumb-item"><a href="#">DrCure</a>
                                 </li>
                                 <!--end nav-item-->
-                                <li class="breadcrumb-item active"><a href="#">Hero Section Manage</a>
+                                <li class="breadcrumb-item active"><a href="#">Settings Manage</a>
                                 </li>
                                 <!--end nav-item-->
                             </ol>
                         </div>
-                        <h4 class="page-title">Store Manage</h4>
+                        <h4 class="page-title">Settings Manage</h4>
                     </div>
                     <!--end page-title-box-->
                     <div class="row">
-                        <h1 class="fs-3">Manage Stores/Branches Here.</h1>
+                        <h1 class="fs-3">Manage Settings Here.</h1>
 
                         <hr class="mb-3 mt-3 h-2 text-danger">
-                        <form action="{{ route('hero-post') }}" method="post" enctype="multipart/form-data">
+                        <form action="{{ route('settings-post') }}" method="post" enctype="multipart/form-data">
                             @csrf
                             <div class="row">
                                 <div class="col-4">
