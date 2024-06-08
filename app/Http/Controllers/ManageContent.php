@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Models\HeroSection;
+use App\Models\ProductSection;
 use App\Models\Slider;
 use App\Models\StoreBranch;
 use Illuminate\Http\Request;
@@ -79,6 +80,26 @@ class ManageContent extends Controller
 
         $hero->save();
 
+        return back();
+    }
+
+    public function product()
+    {
+        $product = ProductSection::all();
+        return view('admin.product-manage.index', compact('product'));
+    }
+
+    public function productPost(Request $request)
+    {
+        $product = new ProductSection();
+        $product->title = $request->title;
+        $product->link = $request->link;
+        if ($request->hasFile('image')) {
+            $image = time() . '_product' . '.' . $request->image->extension();
+            $request->image->move(public_path('uploads/product'), $image);
+            $product->image = 'uploads/product/' . $image;
+        }
+        $product->save();
         return back();
     }
 }
