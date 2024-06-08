@@ -144,6 +144,7 @@ class ManageContent extends Controller
         $settings->email = $request->email;
         $settings->facebook_link = $request->facebook_link;
         $settings->instagram_link = $request->instagram_link;
+        $settings->linkedin_link = $request->linkedin_link;
         $settings->youtube_link = $request->youtube_link;
         $settings->twitter_link = $request->twitter_link;
         if ($request->hasFile('top_logo')) {
