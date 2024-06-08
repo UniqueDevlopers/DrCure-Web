@@ -25,6 +25,8 @@ Route::middleware('auth')->group(function () {
     Route::post('/store-post', [ManageContent::class, 'storePost'])->name('store-post');
     Route::get('/hero-banner-picture', [ManageContent::class, 'heroManage'])->name('hero-manage');
     Route::post('/hero-post', [ManageContent::class, 'heroPost'])->name('hero-post');
+    Route::get('/product-manage', [ManageContent::class, 'product'])->name('product-manage');
+    Route::post('/product-post', [ManageContent::class, 'productPost'])->name('product-post');
 });
 
 
