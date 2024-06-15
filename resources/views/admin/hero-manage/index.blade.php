@@ -32,7 +32,7 @@
                                     <div class="form-group mb-2">
                                         <label class="form-label" for="heading_top">Heading Top</label>
                                         <input type="text" class="form-control" id="heading_top" name="heading_top"
-                                            placeholder="Enter Heading Top" value="">
+                                            placeholder="Enter Heading Top" value="{{ $hero->heding_top }}">
                                     </div>
                                 </div>
 
@@ -40,14 +40,14 @@
                                     <div class="form-group mb-2">
                                         <label class="form-label" for="heading_bottom">Heading Bottom</label>
                                         <input type="text" class="form-control" id="heading_bottom" name="heading_bottom"
-                                            placeholder="Enter Heading Bottom">
+                                            placeholder="Enter Heading Bottom" value="{{ $hero->heading_bottom }}">
                                     </div>
                                 </div>
                                 <div class="col-2">
                                     <div class="form-group mb-2">
                                         <label class="form-label" for="bg_color">Background Color</label>
                                         <input type="color" class="form-control" id="bg_color" name="bg_color"
-                                            placeholder="Enter Background Color">
+                                            placeholder="Enter Background Color" value="{{ $hero->bg_color }}">
                                     </div>
                                 </div>
                                 <div class="col-2">
@@ -63,7 +63,7 @@
                                 <div class="col-12">
                                     <div class="form-group mb-2">
                                         <label class="form-label" for="description">Description</label>
-                                        <textarea type="text" class="form-control" id="description" name="description" placeholder="Enter description"></textarea>
+                                        <textarea type="text" class="form-control" id="description" name="description" placeholder="Enter description">{{ $hero->description }}</textarea>
                                     </div>
                                 </div>
                                 <div class="col-4 mt-4">
