@@ -48,6 +48,11 @@ class ManageContent extends Controller
         $branch->phone_number = $request->phone_number;
         $branch->longitude = $request->longitude;
         $branch->latitude = $request->latitude;
+        if ($request->hasFile('store_image')) {
+            $image = time() . '_store' . '.' . $request->store_image->extension();
+            $request->image->move(public_path('uploads/store'), $image);
+            $branch->store_image = 'uploads/store/' . $image;
+        }
         $branch->save();
         if ($branch) {
             return redirect()->back();
