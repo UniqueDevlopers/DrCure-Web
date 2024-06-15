@@ -50,7 +50,7 @@ class ManageContent extends Controller
         $branch->latitude = $request->latitude;
         if ($request->hasFile('store_image')) {
             $image = time() . '_store' . '.' . $request->store_image->extension();
-            $request->image->move(public_path('uploads/store'), $image);
+            $request->store_image->move(public_path('uploads/store'), $image);
             $branch->store_image = 'uploads/store/' . $image;
         }
         $branch->save();
