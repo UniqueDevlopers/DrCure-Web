@@ -46,20 +46,31 @@
                                             placeholder="Enter Phone Number">
                                     </div>
                                 </div>
-                                <div class="col-4">
+                                <div class="col-3">
                                     <div class="form-group mb-2">
                                         <label class="form-label" for="longitude">Longitude</label>
                                         <input type="text" class="form-control" id="longitude" name="longitude"
                                             placeholder="Enter Longitude">
                                     </div>
                                 </div>
-                                <div class="col-4">
+                                <div class="col-3">
                                     <div class="form-group mb-2">
                                         <label class="form-label" for="latitude">Latitude</label>
                                         <input type="text" class="form-control" id="latitude" name="latitude"
                                             placeholder="Enter Latitude">
                                     </div>
                                 </div>
+                                <div class="col-2">
+                                    <label class="form-label mt-2" for="link">Upload Image</label>
+                                    <div class="form-group mb-2">
+                                        <div class="add-file btn btn-danger position-relative overflow-hidden">
+                                            <i class="las la-cloud-upload-alt me-2 font-15"></i>Select Image
+                                            <input type="file" name="store_image" class="add-file-input" />
+                                        </div>
+                                    </div>
+
+                                </div>
+
                                 <div class="col-4 mt-4">
                                     <button type="submit" class="btn btn-primary">Submit</button>
                                 </div>
@@ -75,6 +86,7 @@
                     <thead>
                         <tr>
                             <th scope="col">SL</th>
+                            <th scope="col">Image</th>
                             <th scope="col">Name</th>
                             <th scope="col">Address</th>
                             <th scope="col">Phone Number</th>
@@ -87,8 +99,9 @@
                         @foreach ($branch as $key => $value)
                             <tr>
                                 <th scope="row">{{ $key + 1 }}</th>
-                                <td>{{ $value->store_name }}
-                                </td>
+                                <td><img src="{{ URL::to($value->store_image) }}" alt=""></td>
+                                <td>{{ $value->store_name }}</td>
+
                                 <td>{{ $value->address }}</td>
                                 <td>{{ $value->phone_number }}</td>
                                 <td>{{ $value->longitude }}/{{ $value->latitude }}</td>
