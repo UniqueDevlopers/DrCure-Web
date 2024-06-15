@@ -63,7 +63,7 @@ class ManageContent extends Controller
 
     public function heroManage()
     {
-        $hero = HeroSection::all();
+        $hero = HeroSection::first(); // Retrieve the first (and only) record
         return view('admin.hero-manage.index', compact('hero'));
     }
 
