@@ -68,6 +68,10 @@
                                                 onclick="viewmap('{{ $store->latitude }}', '{{ $store->longitude }}', this)">View
                                                 Map</a>
                                         </div>
+                                        <div class="col-4">
+                                            <img width="200px" src="{{ URL::to($store->store_image) }}"
+                                                alt="">
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -79,7 +83,7 @@
                         <button type="button" role="presentation" class="owl-next"><img
                                 src="{{ url('frontend/images/chevron_right_black_24dp.svg') }}"></button>
                     </div>
-                    <div class="owl-dots disabled"></div>
+                    <div class="owl-dots"></div>
                 </div>
             </div>
         </div>
@@ -132,6 +136,7 @@
     .owl-nav img {
         width: 20px;
         /* Adjust the size of the arrow icons */
+        color: white;
     }
 
     .mapouter {
