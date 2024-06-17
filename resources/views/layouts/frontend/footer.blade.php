@@ -798,6 +798,15 @@
 <script type="text/javascript" src="{{ url('frontend/code.js') }}"></script>
 <script src="{{ url('frontend/form_submit.js') }}"></script>
 <script src="{{ url('frontend/src/jquery.combostars.js') }}"></script>
+<!-- Include jQuery -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<!-- Include Owl Carousel -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+<link rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+
 
 
 <script>
@@ -816,16 +825,25 @@
         $('#rating1').combostars();
     });
 
-    function viewmap(lat, long, thiselement) {
+    $(document).ready(function() {
+        $("#owl-demo").owlCarousel({
+            items: 3, // Number of items to display
+            loop: true, // Infinite loop
+            margin: 25, // Space between items
+            nav: false, // Show navigation arrows
+            dots: true, // Show pagination dots
+            autoplay: true, // Autoplay
+            autoplayTimeout: 5000, // Autoplay interval
+            autoplayHoverPause: true // Pause on hover
+        });
+    });
 
+    function viewmap(lat, long, thiselement) {
         $("#gmap_canvas2").html(`
-        <iframe id="gmap_canvas" width="100%" height="100%"  src="https://maps.google.com/maps?q=${lat},${long}&hl=en&z=14&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0">
-        </iframe>
+            <iframe id="gmap_canvas" width="100%" height="100%" src="https://maps.google.com/maps?q=${lat},${long}&hl=en&z=14&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
         `);
-        $('.owl-item').removeClass('myactive')
-        $('.owl-item').removeClass('center')
-        $(thiselement).parents('.owl-item').addClass('myactive');
-        $(thiselement).parents('.owl-item').addClass('center');
+        $('.owl-item').removeClass('myactive center');
+        $(thiselement).closest('.owl-item').addClass('myactive center');
     }
 </script>
 
@@ -1043,6 +1061,7 @@
         fm.reset();
     }
 </script>
+
 
 </body>
 
