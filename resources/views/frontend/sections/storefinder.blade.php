@@ -6,7 +6,7 @@
          </div>
          <div class="row justify-content-center mt-5">
              <div class="col-lg-4  mb-lg-0 mb-4">
-                 <div class="storebg">
+                 {{-- <div class="storebg">
                      <form action="#" id="myForm">
 
                          <div class="input-group has-search mb-3">
@@ -71,15 +71,15 @@
                              <input class="btn btnred mt-3" id="clr_search" value="Clear Search" type="button">
                          </div>
                      </form>
-                 </div>
+                 </div> --}}
 
              </div>
 
-             <div class="col-lg-8">
+             <div class="col-lg-12">
                  <div class="mapouter mapshadow">
                      <div class="gmap_canvas " id="gmap_canvas2">
                          <iframe id="gmap_canvas" width="100%" height="100%"
-                             src="https://maps.google.com/maps?q=13.0289593,77.5788604&amp;hl=en&amp;z=14&amp;output=embed"
+                             src="https://maps.google.com/maps?q=17.491026003049875,78.39983162330147&amp;hl=en&amp;z=14&amp;output=embed"
                              frameborder="0" scrolling="no" marginheight="0" marginwidth="0">
                          </iframe>
                      </div>
@@ -99,9 +99,7 @@
                          }
                      </style>
                  </div>
-                 <!-- <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d497699.9973874144!2d77.35074421903857!3d12.95384772557775!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1670c9b44e6d%3A0xf8dfc3e8517e4fe0!2sBengaluru%2C%20Karnataka!5e0!3m2!1sen!2sin!4v1631704126322!5m2!1sen!2sin"
-                        width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy"></iframe> -->
+
              </div>
          </div>
      </div>
